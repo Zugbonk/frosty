@@ -1,0 +1,1043 @@
+ID	Location	Zone	MapID	XPos	YPos	ZPos	Faction	Category	MinLevel	Comment	Subcategory
+1	Bank	Stormwind	0	-8931.194	615.383	99.522	A	City	1		
+2	Harbor	Stormwind	0	-8423.285	1247.375	5.232	A	City	1		
+3	Fly Master	Stormwind	0	-8838.657	489.248	109.61	A	City	1		
+4	Stormwind Keep (Near King)	Stormwind	0	-8442.935	407.45	120.886	A	City	1		
+5	Bank	Ironforge	0	-4898.192	-1001.242	503.941	A	City	1		
+6	Fly Master	Ironforge	0	-4821.574	-1155.141	502.21	A	City	1		
+7	Refuge Pointe	Arathi Highlands	0	-1248.5	-2524.08	20.525	A	World	28		
+8	Badlands - Somewhere in Center (Alliance)	Badlands	0	-6613.446	-3413.008	279.301	A	World	33		
+9	Kum'isha	Blasted Lands	0	-11360.391	-2977.654	-0.596	N	World	43		
+10	Nethergarde Keep	Blasted Lands	0	-10996.986	-3400.254	61.998	A	World	43		
+11	The Dark Portal	Blasted Lands	0	-11899.301	-3206.366	-14.725	N	World	43		Door / Passage / Other Point of Interest
+12	Booty Bay - Bank	Stranglethorn Vale	0	-14423.018	522.063	4.996	N	World	28		
+13	Booty Bay - Harbor	Stranglethorn Vale	0	-14282.356	564.742	7.546	N	World	28		
+14	Black Rock Mountain	Burning Steppes	0	-7690.459	-1090.458	217.535	N	World	48		
+15	Flame Crest	Burning Steppes	0	-7492.885	-2181.128	165.574	N	World	48		
+16	Morgan's Vigil	Burning Steppes	0	-8360.964	-2748.616	185.007	A	World	48		
+17	Amberstill Ranch	Dun Morogh	0	-5536.976	-1318.226	399.512	A	World	1		
+18	Gol'Bolar Quarry	Dun Morogh	0	-5680.461	-1590.097	383.206	A	World	1		
+19	Kharanos Inn	Dun Morogh	0	-5584.12	-524.881	400.763	A	World	1		
+20	Darkshire	Duskwood	0	-10514.633	-1256.858	41.338	A	World	18		
+21	Raven Hill	Duskwood	0	-10736.152	332.409	38.674	A	World	18		
+22	Taerar (WB)	Duskwood	0	-10379.659	-423.509	63.626	N	Raid	60	World Boss	Boss (Roams Around)
+23	Acherus: The Ebon Hold	Eastern Plaguelands	0	2354.668	-5665.862	382.251	N	World	55	Death Knight	
+24	Crown Guard Tower	Eastern Plaguelands	0	1864.984	-3680.018	155.681	N	World	53		
+25	Eastwall Tower	Eastern Plaguelands	0	2549.253	-4780.545	109.039	N	World	53		
+26	Light's Hope Chapel	Eastern Plaguelands	0	2281.69	-5315.53	88.253	N	World	53		
+27	Northpass Tower	Eastern Plaguelands	0	3169.28	-4352.756	138.533	N	World	53		
+28	Plaguewood Tower	Eastern Plaguelands	0	2994.251	-3045.426	118.79	N	World	53		
+29	Quel'Lithien Lodge	Eastern Plaguelands	0	3299.412	-4230.894	158.331	N	World	53		
+30	Eastvale Logging Camp	Elwynn Forest	0	-9480.024	-1267.495	42.009	A	World	1		
+31	Goldshire Inn	Elwynn Forest	0	-9465.242	32.266	56.965	A	World	1		
+32	Westbrook Garrison	Elwynn Forest	0	-9668.605	689.131	36.896	A	World	1		
+33	Southshore	Hillsbrad Foothills	0	-714.458	-516.014	25.79	A	World	18		
+34	Aerie Peak	The Hinterlands	0	286.475	-2003.02	194.127	A	World	38		
+35	Lethon (WB)	The Hinterlands	0	852.438	-3982.353	145.833	N	Raid	60	World Boss	Boss (Roams Around)
+36	Thelsamar	Loch Modan	0	-5421.219	-2926.563	346.936	A	World	8		
+37	Lakeshire	Redridge Mountains	0	-9432.199	-2237.709	68.84	A	World	13		
+38	Stranglethorn Arena	Stranglethorn Vale	0	-13248.913	226.633	39.227	N	World	28		
+39	Hunters Camp	Stranglethorn Vale	0	-11622.904	-56.962	10.998	N	World	28		
+40	Rebel Camp	Stranglethorn Vale	0	-11338.053	-213.057	75.22	A	World	28		
+41	Yojamba Isle	Stranglethorn Vale	0	-11804.762	1248.436	1.4	N	World	28		
+42	The Harborage	Swamp of Sorrows	0	-10111.921	-2819.278	22.006	A	World	33		
+43	Chillwind Camp	Western Plaguelands	0	954.79	-1425.402	64.999	A	World	48		
+44	Thondroril River	Western Plaguelands	0	1941.9	-2557.328	61.341	N	World	48		
+45	Lighthouse	Westfall	0	-11398.245	1954.715	12.268	A	World	8		
+46	Sentinel Hill	Westfall	0	-10499.07	1034.217	60.522	A	World	8		
+47	Center	Wetlands	0	-3194.341	-2455.534	9.301	N	World	18		
+48	Dun Modr	Wetlands	0	-2655.73	-2457.487	79.927	A	World	18		
+49	Menethil Harbor	Wetlands	0	-3795.025	-782.193	9.136	A	World	18		
+50	Uldaman - Main	Badlands	0	-6068.194	-2954.934	209.775	X	Dungeon	30	Uldaman main entrance 	Door / Passage / Other Point of Interest
+51	Uldaman - Side	Badlands	0	-6623.699	-3764.713	266.336	X	Dungeon	30	Uldaman side entrance	Door / Passage / Other Point of Interest
+52	Blackrock Depths Entrance	Burning Steppes	0	-7182.004	-921.5	165.811	X	Dungeon	40		Door / Passage / Other Point of Interest
+53	Blackrock Spire Entrance	Burning Steppes	0	-7527.688	-1225.745	285.733	X	Dungeon	45		Door / Passage / Other Point of Interest
+54	Blackwing Lair Entrance	Burning Steppes	0	-7662.49	-1220.917	287.788	X	Raid	60		Door / Passage / Other Point of Interest
+55	Molten Core Entrance	Burning Steppes	0	-7512.909	-1043.948	182.059	X	Raid	60		Door / Passage / Other Point of Interest
+56	Karazhan - Side Entrance	Deadwind Pass	0	-11039.2061	-1999.9153	92.9885	X	Raid	70		Door / Passage / Other Point of Interest
+57	Karazhan - Main Entrance	Deadwind Pass	0	-11110.3848	-2004.2415	49.3319	X	Raid	70		Door / Passage / Other Point of Interest
+58	Stratholme - Main Entrance	Eastern Plaguelands	0	3388.821	-3350.299	142.25	X	Dungeon	48		Door / Passage / Other Point of Interest
+59	Stratholme - Side Entrance	Eastern Plaguelands	0	3231.2168	-4044.6345	108.4296	X	Dungeon	48		Door / Passage / Other Point of Interest
+60	Stormwind Entrance	Elwynn Forest	0	-9100.908	408.896	92.575	A	World	1		
+61	Near King's Room	Ironforge	0	-4842.027	-1085.58	502.192	A	City	1		
+62	Tinker Town (Tram Entrance)	Ironforge	0	-4839.977	-1317.837	501.868	A	City	1		
+63	Shadowfang Keep Entrance	Silverpine Forest	0	-233.726	1565.996	76.89	X	Dungeon	14		Door / Passage / Other Point of Interest
+64	Dwarven District (Tram Entrance)	Stormwind	0	-8355.391	524.654	91.797	A	City	1		
+65	Stormwind Stockade Entrance	Stormwind	0	-8765.653	843.882	88.24	X	Dungeon	15		Door / Passage / Other Point of Interest
+66	Zul'Gurub Entrance	Stranglethorn Vale	0	-11916.47	-1218.004	92.286	X	Raid	60		Door / Passage / Other Point of Interest
+67	The Temple of Atal'Hakkar Entrance	Swamp of Sorrows	0	-10180.138	-3993.617	-109.905	X	Dungeon	35		Door / Passage / Other Point of Interest
+68	Scholomance Entrance	Western Plaguelands	0	1270.9146	-2554.2520	92.4512	X	Dungeon	48		Door / Passage / Other Point of Interest
+69	The Deadmines Entrance	Westfall	0	-11208.096	1674.485	24.615	X	Dungeon	10		Door / Passage / Other Point of Interest
+70	Gnomeregan Main Entrance	Dun Morogh	0	-5162.685	926.882	257.159	X	Dungeon	15		Door / Passage / Other Point of Interest
+71	Bank	Undercity	0	1604.006	240.083	-52.149	H	City	1		
+72	Fly Master	Undercity	0	1568.225	268.202	-43.102	H	City	1		
+73	Royal Quarter (Behind Sylvanas)	Undercity	0	1254.826	287.21	-63.66	H	City	1		
+74	Brill	Tirisfal Glades	0	2266.237	270.621	35.188	H	World	1		
+75	Zeppelin > Durotar	Tirisfal Glades	0	2066.538	287.279	97.032	H	World	1		
+76	Zeppelin > Stranglethorn Vale	Tirisfal Glades	0	2057.458	240.411	99.769	H	World	1		
+77	Zeppelin > Northrend Howling Fjord	Tirisfal Glades	0	2060.616	360.43	82.49	H	World	1		
+78	The Sepulcher	Silverpine Forest	0	493.859	1583.111	126.078	H	World	8		
+79	Hammerfall	Arathi Highlands	0	-918.822	-3529.298	72.574	H	World	28		
+80	Kargath	Badlands	0	-6668.37	-2167.992	245.372	H	World	33		
+81	Tarren Mill	Hillsbrad Foothills	0	4.961	-902.46	56.507	H	World	18		
+82	Revantusk Village	The Hinterlands	0	-584.148	-4595.547	10.509	H	World	38		
+83	Thorium Point	Searing Gorge	0	-6500.941	-1154.226	308.424	N	World	43		
+84	Grom'gol Base Camp Zeppelins	Stranglethorn Vale	0	-12421.518	206.437	31.292	H	World	28		
+85	Stonard	Swamp of Sorrows	0	-10466.789	-3275.037	20.657	H	World	33		
+86	Northshire Valley (Human Start Area)	Elwynn Forest	0	-8927.384	-129.143	81.864	A	World	1		
+87	Coldridge Valley (Dwarf & Gnomes Start Area)	Dun Morogh	0	-6232.094	329.772	382.984	A	World	1		
+88	The Bulwark	Tirisfal Glades	0	1714.772	-728.086	55.3	H	World	51		
+89	Deathknell (Undead Start Area)	Tirisfal Glades	0	1784.812	1594.267	105.055	H	World	1		
+90	Alterac Mountains	Alterac Mountains	0	354.711	-616.941	150.671	N	World	28		
+91	Bank	Darnassus	1	9939.639	2511.88	1317.813	A	City	1		
+92	Astranaar	Ashenvale	1	2825.987	-289.195	107.201	A	World	18		
+93	Forest Song	Ashenvale	1	2997.644	-3202.002	189.679	A	World	18		
+94	Azuregos (WB)	Azshara	1	2496.596	-6060.135	98.091	N	Raid	60	World Boss	Boss (Roams Around)
+95	Talrendis Point	Azshara	1	2724.135	-3879.505	100.46	A	World	43		
+96	Ratchet	The Barrens	1	-1001.907	-3704.86	4.56	N	World	8		
+97	Auberdine	Darkshore	1	6335.59	561.572	15.908	A	World	8		
+98	Nijel's Point	Desolace	1	138.474	1326.113	193.499	A	World	28		
+99	Gelkis Village	Desolace	1	-2006.636	2614.935	62.192	N	World	28		
+100	Kormek's Hut	Desolace	1	-716.95	1456.09	90.475	N	World	28		
+101	Magram Village	Desolace	1	-1727.514	956.143	90.662	N	World	28		
+102	Scrabblescrew's Camp	Desolace	1	-1411.429	1497.829	59.698	N	World	28		
+103	Theramore Isle	Dustwallow Marsh	1	-3827.518	-4517.926	10.634	A	World	33		
+104	Mudsprocket	Dustwallow Marsh	1	-4589.366	-3196.814	35.042	N	World	33		
+105	Emerald Sanctuary	Felwood	1	3981.332	-1314.838	251.309	N	World	46		
+106	Talonbranch Glade	Felwood	1	6207.339	-1951.03	571.282	N	World	46		
+107	Timbermaw Hold Passage	Felwood	1	6817.422	-2082.097	623.837	N	World	46		
+108	Feathermoon Stronghold	Feralas	1	-4374.073	3340.932	12.267	A	World	38		
+109	Thalanaar	Feralas	1	-4491.3	-774.44	-39.04	A	World	38		
+110	The Forgotten Coast (Harbor)	Feralas	1	-4350.629	2340.813	8.72	N	World	38		
+111	Jademir Lake (WB Emeriss)	Feralas	1	-2970.979	1919.669	30.511	N	World	38		
+112	The Twin Colossals	Feralas	1	-3133.298	2251.68	39.588	N	World	38		
+113	Moonglade	Moonglade	1	7824.901	-2572.392	489.234	N	World	15		
+114	Bronzebeard Encampment	Silithus	1	-8015.814	1102.629	4.68	A	World	53		
+115	Cenarion Hold	Silithus	1	-6848.613	747.844	42.536	N	World	53		
+116	Hive'Zora (Alliance Camp)	Silithus	1	-7141.18	1394.143	4.051	A	World	53		
+117	Ravaged Twilight Camp	Silithus	1	-6154.931	1783.9	29.727	N	World	53		
+118	Center	Stonetalon Mountains	1	823.858	509.318	70.572	N	World	13		
+119	Stonetalon Peak	Stonetalon Mountains	1	2683.966	1465.637	233.709	A	World	13		
+120	Gadgetzan	Tanaris	1	-7201.175	-3827.193	8.559	N	World	38		
+121	Steamwheedle Port	Tanaris	1	-6912.375	-4807.013	8.433	N	World	38		
+122	Dolanaar	Teldrassil	1	9854.954	957.611	1306.457	A	World	1		
+123	Marshal's Refuge	Un'Goro Crater	1	-6116.033	-1140.124	-188.196	N	World	45		
+124	Start (Torwa Pathfinder)	Un'Goro Crater	1	-7842.824	-2114.909	-255.047	N	World	45		
+125	Everlook	Winterspring	1	6777.648	-4674.258	723.802	N	World	53		
+126	Blackfathom Deeps Entrance	Ashenvale	1	4247.483	745.036	-24.489	X	Dungeon	19		Door / Passage / Other Point of Interest
+127	Razorfen Downs Entrance	The Barrens	1	-4659.735	-2527.26	81.621	N	Dungeon	25		Door / Passage / Other Point of Interest
+128	Razorfen Kraul Entrance	The Barrens	1	-4465.319	-1667.188	81.893	N	Dungeon	17		Door / Passage / Other Point of Interest
+129	Maraudon Cave Entrance	Desolace	1	-1423.032	2917.257	136.051	N	Dungeon	30		Door / Passage / Other Point of Interest
+130	Maraudon Entrance (Earth Song Falls)	Desolace	1	-1382.999	2921.071	73.267	N	Dungeon	30		Door / Passage / Other Point of Interest
+131	Maraudon Entrance (Orange)	Desolace	1	-1469.793	2617.022	76.489	N	Dungeon	30		Door / Passage / Other Point of Interest
+132	Maraudon Entrance (Purple)	Desolace	1	-1185.92	2876.15	85.764	N	Dungeon	30		Door / Passage / Other Point of Interest
+133	Onyxia's Lair Entrance	Dustwallow Marsh	1	-4740.162	-3748.195	52.169	N	Raid	80		Door / Passage / Other Point of Interest
+134	Dire Maul East Entrance	Feralas	1	-3740.262	936.056	160.975	N	Dungeon	45		Door / Passage / Other Point of Interest
+135	Dire Maul North Entrance	Feralas	1	-3519.487	1079.006	161.137	N	Dungeon	45		Door / Passage / Other Point of Interest
+136	Dire Maul West Entrance	Feralas	1	-3828.275	1250.301	160.227	N	Dungeon	45		Door / Passage / Other Point of Interest
+137	Ruins of Ahn'Qiraj Entrance	Silithus	1	-8418.239	1505.602	31.733	N	Raid	60		Door / Passage / Other Point of Interest
+138	Temple of Ahn'Qiraj Entrance	Silithus	1	-8240.922	1994.498	129.072	N	Raid	60		Door / Passage / Other Point of Interest
+139	The Culling of Stratholme Entrance	Tanaris	1	-8756.6	-4457.02	-200.481	N	Dungeon	75		Door / Passage / Other Point of Interest
+140	Hyjal Entrance	Tanaris	1	-8175.19	-4172.813	-165.88	N	Raid	70		Door / Passage / Other Point of Interest
+141	Old Hillsbrad Foothills Entrance	Tanaris	1	-8360.993	-4059.984	-208.235	N	Dungeon	66		Door / Passage / Other Point of Interest
+142	Caverns of Time Entrance	Tanaris	1	-8170.533	-4754.276	33.373	N	World	38		
+143	The Black Morass Entrance	Tanaris	1	-8769.699	-4189.491	-209.501	N	Dungeon	66		Door / Passage / Other Point of Interest
+144	Zul'Farrak Entrance	Tanaris	1	-6798.588	-2887.604	8.907	N	Dungeon	35		Door / Passage / Other Point of Interest
+145	The Wailing Caverns Quests	The Wailing Caverns Quests	1	-802.677	-2028.578	96.197	N	Dungeon	10		Quest
+146	The Wailing Caverns Entrance	The Barrens	1	-741.986	-2214.461	15.762	N	Dungeon	10		Door / Passage / Other Point of Interest
+147	Ragefire Chasm Entrance	Orgrimmar	1	1815.704	-4420.787	-18.934	X	Dungeon	10		Door / Passage / Other Point of Interest
+148	Bank	Orgrimmar	1	1620.641	-4370.59	12.227	H	City	1		
+149	Fly Master	Orgrimmar	1	1679.524	-4317.049	61.387	H	City	1		
+150	Near Thrall's Room (Behind Grommash Hold)	Orgrimmar	1	2001.995	-4232.271	31.807	H	City	1		
+151	Zeppelins to North and Thunder Bluff	Durotar	1	1169.257	-4158.641	51.571	H	World	1		
+152	Zeppelins to STV and Undercity	Durotar	1	1343.206	-4637.822	53.528	H	World	1		
+153	Razor Hill Inn	Durotar	1	340.004	-4697.9	16.458	H	World	1		
+154	Sen'jin Village	Durotar	1	-808.485	-4910.604	19.195	H	World	1		
+155	Crossroads	The Barrens	1	-439.177	-2596.02	95.88	H	World	8		
+156	Camp Taurajo	The Barrens	1	-2385.105	-1883.987	95.851	H	World	8		
+157	Bank	Thunder Bluff	1	-1260.943	26.614	128.187	H	City	1		
+158	Fly Master	Thunder Bluff	1	-1199.164	27.153	176.948	H	City	1		
+159	Zeppelin to Durotar	Thunder Bluff	1	-1029.708	352.865	133.12	H	City	1		
+160	Bloodhoof Village Inn	Mulgore	1	-2353.933	-359.628	-8.957	H	World	1		
+161	Zoram'gar Outpost	Ashenvale	1	3356.433	1013.579	3.133	H	World	18		
+162	Splintertree Post	Ashenvale	1	2316.226	-2537.431	100.322	H	World	18		
+163	Bloodvenom Post	Felwood	1	5105.17	-352.959	357.256	H	World	46		
+164	Valormok	Azshara	1	3608.692	-4413.55	113.243	H	World	43		
+165	Shadowprey Village	Desolace	1	-1653.219	3164.43	23.66	H	World	28		
+166	Brackenwall Village	Dustwallow Marsh	1	-3142.364	-2878.142	34.58	H	World	33		
+167	Camp Mojache	Feralas	1	-4413.925	201.742	25.012	H	World	38		
+168	Freewind Post	Thousand Needles	1	-5423.339	-2423.169	89.31	H	World	23		
+169	Mirage Raceway	Thousand Needles	1	-6228.606	-3958.811	-58.684	N	World	23		
+170	Hive'Regal (Horde Camp)	Silithus	1	-7588.905	760.104	-16.421	H	World	53		
+171	Shadowglen (Night Elf Start Area)	Teldrassil	1	10358.603	787.002	1323.578	A	World	1		
+172	Sun Rock Retreat	Stonetalon Mountains	1	958.468	931.161	104.726	N	World	13		
+173	Valley of Trials (Orc & Troll Start Area)	Durotar	1	-617.337	-4249.533	38.86	H	World	1		
+174	Camp Narache (Tauren Start Area)	Mulgore	1	-2915.792	-262.73	53.449	N	World	1		
+175	Entrance	Silvermoon City	530	9529.609	-7298.759	15.229	H	City	1		
+176	Bank	Silvermoon City	530	9534.928	-7215.761	16.131	H	City	1		
+177	Inner Sanctum (Behind King)	Silvermoon City	530	10006.413	-7016.963	50.702	H	City	1		
+178	Fly Master	Silvermoon City	530	9373.287	-7164.37	9.108	H	City	1		
+179	Falconwing Square	Eversong Woods	530	9530.013	-6866.846	18.582	H	World	1		
+180	Fairbreeze Village	Eversong Woods	530	8697.761	-6643.84	72.746	H	World	1		
+181	Farstrider Retreat	Eversong Woods	530	8994.345	-7454.33	86.661	H	World	1		
+182	Tranquillien	Ghostlands	530	7558.166	-6767.754	91.222	H	World	8		
+183	Farstrider Enclave	Ghostlands	530	7549.853	-7646.187	151.284	H	World	8		
+184	Zul'Aman Entrance	Ghostlands	530	6851.234	-7989.059	189.153	N	Raid	70		Door / Passage / Other Point of Interest
+185	Deatholme	Ghostlands	530	6662.816	-6456.448	29.26	H	World	8		
+186	Bank	The Exodar	530	-3918.959	-11558.922	-150.191	A	City	1		
+187	Fly Master	The Exodar	530	-4051.974	-11791.774	8.924	A	City	1		
+188	Azure Watch	Azuremyst Isle	530	-4151.384	-12467.539	45.185	A	World	1		
+189	Odesyus' Landing	Azuremyst Isle	530	-4704.821	-12404.262	12.331	A	World	1		
+190	Stillpine Hold	Azuremyst Isle	530	-3429.665	-12325.557	13.775	A	World	1		
+191	Kessel's Crossing	Bloodmyst Isle	530	-2662.528	-12133.389	17.182	A	World	8		
+192	Blood Watch	Bloodmyst Isle	530	-2055.83	-11863.499	48.173	A	World	8		
+193	Center	Shattrath City	530	-1859.97	5438.408	-10.464	N	City	1		
+194	Bank Aldor	Shattrath City	530	-1703.819	5508.417	-9.8	N	City	1		
+195	Bank Scryers	Shattrath City	530	-2021.597	5351.307	-9.351	N	City	1		
+196	Scryer's Tier	Shattrath City	530	-2204.987	5544.79	66.666	N	City	1		
+197	Aldor Rise	Shattrath City	530	-1735.935	5814.163	148.658	N	City	1		
+198	Lower City	Shattrath City	530	-2076.235	5294.919	-37.323	N	City	1		
+199	Allerian Stronghold	Terokkar Forest	530	-2964.113	3976.905	1.205	A	World	60		
+200	Blackwind Landing	Terokkar Forest	530	-3382.251	3599.908	276.164	N	World	60		
+201	Stonebreaker Hold	Terokkar Forest	530	-2624.619	4426.411	35.921	H	World	60		
+202	Refugee Caravan	Terokkar Forest	530	-2833.81	5066.161	-16.695	N	World	60		
+203	Auchindoun - Mana Tombs Entrance	Terokkar Forest	530	-3080.799	4942.384	-101.047	N	Dungeon	55		Door / Passage / Other Point of Interest
+204	Auchindoun - Auchenai Crypts Entrance	Terokkar Forest	530	-3360.618	5222.756	-101.048	N	Dungeon	55		Door / Passage / Other Point of Interest
+205	Auchindoun - Shadow Labyrinth Entrance	Terokkar Forest	530	-3643.377	4943.26	-101.049	N	Dungeon	65		Door / Passage / Other Point of Interest
+206	Auchindoun - Sethekk Halls Entrance	Terokkar Forest	530	-3363	4659.939	-101.048	N	Dungeon	55		Door / Passage / Other Point of Interest
+207	Sha'tari Base Camp	Terokkar Forest	530	-3745.285	5400.981	-3.348	N	World	60		
+208	Shadowmoon Village	Shadowmoon Valley	530	-3008.031	2591.492	76.586	H	World	65		
+209	Wildhammer Stronghold	Shadowmoon Valley	530	-3952.447	2168.883	100.272	A	World	65		
+210	Sanctum of the Stars	Shadowmoon Valley	530	-4083.742	1116.962	42.159	N	World	65		
+211	Dragonmaw Base Camp	Shadowmoon Valley	530	-5190.448	683.194	69.931	H	World	65		
+212	Black Temple Entrance	Shadowmoon Valley	530	-3646.014	315.526	35.337	N	Raid	70		Door / Passage / Other Point of Interest
+213	Altar of Sha'tar	Shadowmoon Valley	530	-3048.872	816.383	-10.469	N	World	65		
+214	Telaar	Nagrand	530	-2662.091	7246.995	24.244	A	World	62		
+215	Aeris Landing	Nagrand	530	-2071.137	8564.475	23.329	N	World	62		
+216	Halaa	Nagrand	530	-1549.385	7893.113	-20.703	N	World	62		
+217	Garadar	Nagrand	530	-1262.401	7187.614	57.135	H	World	62		
+218	Nesingwary Safari	Nagrand	530	-1457.992	6344.18	37.24	N	World	62		
+219	Throne of the Elements	Nagrand	530	-787.659	6945.367	32.992	N	World	62		
+220	The Ring of Blood	Nagrand	530	-720.731	7935.708	58.38	N	World	62		
+221	Sporeggar	Zangarmarsh	530	185.207	8562.626	21.374	N	World	58		
+222	Zabra'jin	Zangarmarsh	530	271.438	7872.586	24.18	H	World	58		
+223	Orebor Harborage	Zangarmarsh	530	1014.414	7368.236	36.313	A	World	58		
+224	Telredor	Zangarmarsh	530	286.835	6045.567	130.259	A	World	58		
+225	Cenarion Refuge	Zangarmarsh	530	-173.202	5524.491	29.406	N	World	58		
+226	Swamprat Post	Zangarmarsh	530	104.601	5204.966	21.449	H	World	58		
+227	Cenarion Post	Hellfire Peninsula	530	-314.11	4733.278	17.071	N	World	58		
+228	Temple of Telhamat	Hellfire Peninsula	530	145.21	4326.707	106.22	A	World	58		
+229	Falcon Watch	Hellfire Peninsula	530	-616.74	4104.791	90.772	H	World	58		
+230	Honor Hold	Hellfire Peninsula	530	-686.861	2682.131	92.764	A	World	58		
+231	Thrallmar	Hellfire Peninsula	530	147.521	2653.449	85.799	H	World	58		
+232	Dark Portal	Hellfire Peninsula	530	-249.552	924.229	84.38	N	World	58		
+233	Doom Lord Kazzak (WB)	Hellfire Peninsula	530	912.237	2334.575	307.202	N	Raid	70	World Boss	Boss
+234	Magtheridon's Lair Entrance	Hellfire Peninsula	530	-313.905	3087.832	-116.505	N	Raid	70		Door / Passage / Other Point of Interest
+235	Hellfire - Ramparts Entrance	Hellfire Peninsula	530	-361.717	3074.955	-15.054	X	Dungeon	55		Door / Passage / Other Point of Interest
+236	Hellfire - The Blood Furnace Entrance	Hellfire Peninsula	530	-303.506	3164.82	31.743	X	Dungeon	55		Door / Passage / Other Point of Interest
+238	Coilfang - The Steamvault Entrance	Zangarmarsh	530	817.181	6937.807	-80.575	N	Dungeon	65		Door / Passage / Other Point of Interest
+239	Coilfang - The Slave Pens Entrance	Zangarmarsh	530	731.135	7012.407	-72.406	N	Dungeon	55		Door / Passage / Other Point of Interest
+240	Coilfang - Serpentshrine Cavern Entrance	Zangarmarsh	530	821.709	6864.4	-65.967	N	Raid	70		Door / Passage / Other Point of Interest
+241	Coilfang - The Underbog Entrance	Zangarmarsh	530	780.854	6752.951	-72.537	N	Dungeon	55		Door / Passage / Other Point of Interest
+242	Ogri'la	Blade's Edge Mountains	530	2296.685	7283.784	365.677	N	World	63		
+243	Sylvanaar	Blade's Edge Mountains	530	2045.444	6849.958	171.867	A	World	63		
+244	Toshley's Station	Blade's Edge Mountains	530	1911.9	5555.961	263.011	A	World	63		
+245	Evergrove	Blade's Edge Mountains	530	2961.092	5488.064	144.163	N	World	63		
+246	Gruul's Lair Entrance	Blade's Edge Mountains	530	3548.786	5091.982	3.786	N	Raid	70		Door / Passage / Other Point of Interest
+247	Thunderlord Stronghold	Blade's Edge Mountains	530	2360.517	6036.536	141.151	H	World	63		
+248	Mok'Nathal Village	Blade's Edge Mountains	530	2192.829	4780.251	156.073	H	World	63		
+249	Area 52	Netherstorm	530	3056.016	3661.732	142.955	N	World	65		
+250	Eco-Dome Midrealm	Netherstorm	530	3370.79	2884.518	143.917	N	World	65		
+251	The Stormspire	Netherstorm	530	4126.845	2993.511	349.166	N	World	65		
+252	Protectorate Watch Post	Netherstorm	530	4272.528	2162.694	136.193	N	World	65		
+253	Tempest Keep - The Botanica Entrance	Netherstorm	530	3408.924	1486.619	182.838	N	Dungeon	68		Door / Passage / Other Point of Interest
+255	Tempest Keep - The Mechanar Entrance	Netherstorm	530	2867.683	1550.739	252.159	N	Dungeon	68		Door / Passage / Other Point of Interest
+256	Tempest Keep - The Eye Entrance	Netherstorm	530	3087.288	1378.754	184.919	N	Raid	70		Door / Passage / Other Point of Interest
+257	Quartermaster	Isle of Quel'Danas	530	12887.821	-6875.341	9.059	N	World	70		
+258	Sunwell Plateau Entrance	Isle of Quel'Danas	530	12558.378	-6774.659	15.027	N	Raid	70		Door / Passage / Other Point of Interest
+259	Magisters' Terrace Entrance	Isle of Quel'Danas	530	12885.518	-7334.633	65.487	N	Dungeon	65		Door / Passage / Other Point of Interest
+260	Ammen Vale (Draenei Start Area)	Azuremyst Isle	530	-4020.389	-13811.882	77.628	A	World	1		
+261	Sunstrider Isle (Blood Elf Start Area)	Eversong Woods	530	10339.609	-6358.706	32.775	H	World	1		
+262	Vindicator's Rest	Bloodmyst Isle	530	-1760.439	-11067.686	76.387	A	World	8		
+263	Krasus' Landing (Fly Master)	Dalaran	571	5816.181	457.819	658.762	N	City	1		
+264	Violet Hold Entrance	Dalaran	571	5690.752	499.778	652.692	X	Dungeon	70		Door / Passage / Other Point of Interest
+265	Bank on Alliance Side	Dalaran	571	5631.537	695.958	651.993	N	City	1		
+266	The Silver Enclave	Dalaran	571	5716.105	730.843	641.729	A	City	1		
+267	Dalaran - The Violet Citadel	Dalaran	571	5797.996	804.083	662.138	N	City	1		
+268	Crafting Area	Dalaran	571	5894.999	721.286	640.216	N	City	1		
+269	Bank on Horde Side	Dalaran	571	5974.994	609.794	650.628	N	City	1		
+270	Sunreaver's Sanctuary	Dalaran	571	5932.478	577.233	639.605	H	City	1		
+271	PVP Vendors	Dalaran	571	5758.015	584.011	614.824	N	City	1		
+272	Sunreaver's Command	Crystalsong Forest	571	5603.438	-698.416	206.616	H	World	74		
+273	Windrunner's Overlook	Crystalsong Forest	571	5066.412	-574.281	219.973	A	World	74		
+274	Wyrmrest Temple (UP)	Dragonblight	571	3558.139	272.866	342.721	N	World	71		
+275	Wyrmrest Temple (Bottom)	Dragonblight	571	3536.216	367.69	52.276	N	World	71		
+276	The Ruby Sanctum Entrance	Dragonblight	571	3604.23	192.083	-110.821	N	Raid	80		Door / Passage / Other Point of Interest
+277	The Obsidian Sanctum Entrance	Dragonblight	571	3448	261.545	-110.164	N	Raid	80		Door / Passage / Other Point of Interest
+278	Wintergarde Keep	Dragonblight	571	3775.48	-771.648	195.854	A	World	71		
+279	Naxxramas Entrance	Dragonblight	571	3668.869	-1265.146	243.512	N	Raid	80		Door / Passage / Other Point of Interest
+280	Moa'ki Harbor	Dragonblight	571	2775.711	928.177	22.538	N	World	71		
+281	Agmar's Hammer	Dragonblight	571	3798.744	1567.804	89.725	H	World	71		
+282	Stars' Rest	Dragonblight	571	3502.879	1992.214	64.985	A	World	71		
+283	Azjol-Nerub Entrance	Dragonblight	571	3672.178	2170.875	35.932	N	Dungeon	67		Door / Passage / Other Point of Interest
+284	Ahn'kahet: The Old Kingdom Entrance	Dragonblight	571	3641.133	2033.186	2.474	N	Dungeon	68		Door / Passage / Other Point of Interest
+285	Icecrown Citadel Entrance	Icecrown	571	5790.509	2073.993	636.065	N	Raid	80		Door / Passage / Other Point of Interest
+286	The Forge of Souls Entrance	Icecrown	571	5670.132	2004.789	798.043	N	Dungeon	75		Door / Passage / Other Point of Interest
+287	The Halls of Reflection Entrance	Icecrown	571	5629.121	1975.108	803.021	N	Dungeon	75		Door / Passage / Other Point of Interest
+288	The Pit of Saron Entrance	Icecrown	571	5593.894	2011.369	798.04	N	Dungeon	75		Door / Passage / Other Point of Interest
+289	Death's Rise	Icecrown	571	7417.018	4207.748	314.175	N	World	77		
+290	The Shadow Vault	Icecrown	571	8393.819	2698.685	656.638	N	World	77		
+291	Argent Tournament Grounds	Icecrown	571	8482.418	1060.738	552.44	N	World	77		
+292	Trial of the Champion Entrance	Icecrown	571	8576.496	791.893	558.235	N	Dungeon	75		Door / Passage / Other Point of Interest
+293	Trial of the Crusader Entrance	Icecrown	571	8515.024	731.501	558.248	N	Raid	80		Door / Passage / Other Point of Interest
+294	The Argent Vanguard	Icecrown	571	6253.567	-48.959	421.425	N	World	77		
+295	Frosthold	The Storm Peaks	571	6677.441	-228.499	945.472	A	World	77		
+296	K3	The Storm Peaks	571	6120.453	-1060.647	402.611	N	World	77		
+297	Brunnhildar Village	The Storm Peaks	571	6873.959	-1627.65	820.508	N	World	77		
+298	Dun Niffelem	The Storm Peaks	571	7294.471	-2646.162	815.003	N	World	77		
+299	Ulduar Entrance	The Storm Peaks	571	9342.301	-1115.556	1245.146	N	Raid	80		Door / Passage / Other Point of Interest
+300	Halls of Lightning Entrance	The Storm Peaks	571	9173.697	-1384.611	1105.399	N	Dungeon	75		Door / Passage / Other Point of Interest
+301	Halls of Stone Entrance	The Storm Peaks	571	8923.461	-981.297	1039.303	N	Dungeon	72		Door / Passage / Other Point of Interest
+302	Temple of Storms	The Storm Peaks	571	7397.105	-546.362	1897.496	N	World	77		
+303	Grom'arsh Crash-Site	The Storm Peaks	571	7855.793	-769.242	1179.182	H	World	77		
+304	Light's Breach	Zul'Drak	571	5162.709	-2200.457	236.538	N	World	73		
+305	Crusader Forward Camp	Zul'Drak	571	5534.257	-1864.271	238.268	N	World	73		
+306	The Argent Stand	Zul'Drak	571	5454.298	-2608.004	306.909	N	World	73		
+307	Amphitheater of Anguish	Zul'Drak	571	5795.2	-3018.209	286.304	N	World	73		
+308	Zim'Torga	Zul'Drak	571	5755.86	-3586.288	386.496	N	World	73		
+309	Dubra'Jin	Zul'Drak	571	6945.861	-4094.939	476.246	N	World	73		
+310	Gundrak Entrance	Zul'Drak	571	6958.685	-4415.166	449.261	N	Dungeon	71		Door / Passage / Other Point of Interest
+311	Drak'Tharon Keep Entrance	Zul'Drak	571	4774.8	-2033.514	229.148	N	Dungeon	69		Door / Passage / Other Point of Interest
+312	Silverbrook	Grizzly Hills	571	4322.23	-2472.053	238.058	N	World	70		
+313	Blue Sky Logging Grounds	Grizzly Hills	571	4362.68	-2909.177	308.045	N	World	70		
+314	Granite Springs	Grizzly Hills	571	3837.135	-1965.802	208.407	N	World	70		
+315	Conquest Hold	Grizzly Hills	571	3251.363	-2260.001	114.647	H	World	70		
+316	Venture Bay [H]	Grizzly Hills	571	2826.309	-1667.876	16.545	H	World	70		
+317	Amberpine Lodge	Grizzly Hills	571	3450.89	-2764.513	199.369	A	World	70		
+318	Camp Oneqwah	Grizzly Hills	571	3854.045	-4523.265	209.293	H	World	70		
+319	Westfall Brigade Encampment	Grizzly Hills	571	4556.164	-4227.428	170.666	A	World	73		
+320	Camp Winterhoof	Howling Fjord	571	2657.239	-4370.923	279.399	H	World	68		
+321	Apothecary Camp	Howling Fjord	571	2115.656	-2977.053	148.602	H	World	68		
+322	Westguard Keep	Howling Fjord	571	1391.36	-3278.81	163.377	A	World	68		
+323	Kamagua	Howling Fjord	571	776.96	-2887.963	4.984	N	World	68		
+324	New Agamand	Howling Fjord	571	423.296	-4568.475	245.141	H	World	68		
+325	Valgarde	Howling Fjord	571	613.887	-4974.594	5.95	A	World	68		
+326	Vengeance Landing	Howling Fjord	571	1900.954	-6168.555	23.399	H	World	68		
+327	Utgarde Pinnacle Entrance	Howling Fjord	571	1241.073	-4856.495	218.096	N	Dungeon	75		Door / Passage / Other Point of Interest
+328	Utgarde Keep Entrance	Howling Fjord	571	1226.76	-4862.864	41.248	N	Dungeon	65		Door / Passage / Other Point of Interest
+329	Fort Wildervar	Howling Fjord	571	2483.188	-5025.939	282.888	A	World	68		
+330	Mistwhisper Refuge	Sholazar Basin	571	6227.266	5001.52	-98.501	N	World	75		
+331	Nesingwary Base Camp	Sholazar Basin	571	5571.284	5751.762	-75.143	N	World	75		
+332	Lakeside Landing (zone center)	Sholazar Basin	571	5488.399	4755.678	-197.126	N	World	75		
+333	Rainspeaker Canopy	Sholazar Basin	571	5648.104	4579.501	-137.571	N	World	75		
+334	Frenzyheart Hill	Sholazar Basin	571	5266.078	4518.717	-84.667	N	World	75		
+335	Waygate to Un'Goro Crater	Sholazar Basin	571	4884.798	5183.183	-85.221	N	World	75		
+336	Winterfin Retreat	Borean Tundra	571	4372.853	6081.902	0.704	N	World	68		
+337	The Nexus Entrance	Borean Tundra	571	3896.296	6984.771	69.489	X	Dungeon	66		Door / Passage / Other Point of Interest
+338	Transitus Shield	Borean Tundra	571	3582.264	6660.393	195.375	N	World	68		
+339	The Oculus Entrance	Borean Tundra	571	3876.657	6984.534	106.32	X	Dungeon	75		Door / Passage / Other Point of Interest
+340	The Eye of Eternity Entrance	Borean Tundra	571	3874.34	6982.497	152.935	N	Raid	80		Door / Passage / Other Point of Interest
+341	Amber Ledge	Borean Tundra	571	3603.57	5974.602	136.216	N	World	68		
+342	Fizzcrank Airstrip	Borean Tundra	571	4156.51	5277.158	25.334	A	World	68		
+343	Unu'pe	Borean Tundra	571	2909.311	4056.291	1.566	N	World	68		
+344	D.E.H.T.A.  Encampment	Borean Tundra	571	3208.933	5294.455	47.764	N	World	68		
+345	Valiance Keep	Borean Tundra	571	2268.479	5230.205	11.261	A	World	68		
+346	Taunka'le Village	Borean Tundra	571	3462.18	4124.37	15.918	H	World	68		
+347	Bor'gorok Outpost	Borean Tundra	571	4488.482	5726.003	80.274	H	World	68		
+348	Warsong Hold	Borean Tundra	571	2744.73	6101.541	77.483	H	World	68		
+349	Ebon Watch	Zul'Drak	571	5217.42	-1307.071	242.049	N	World	73		
+350	Kor'kron Vanguard	Dragonblight	571	4936.096	1254.681	226.13	H	World	71		
+351	Fordragon Hold	Dragonblight	571	4589.503	1402.282	193.107	N	World	71		
+352	Venomspite	Dragonblight	571	3238.692	-675.932	166.83	N	World	71		
+353	Bouldercrag's Refuge	The Storm Peaks	571	8462.949	-330.919	906.708	N	World	77		
+354	Vault of Archavon Entrance	Wintergrasp	571	5482.258	2838.596	418.795	X	Raid	80		Door / Passage / Other Point of Interest
+355	Wintergrasp Fortress	Wintergrasp	571	5301.277	2841.906	409.205	N	World	77		
+356	Warsong Camp (horde quests and fly master)	Wintergrasp	571	5025.542	3682.546	362.811	H	World	77		
+357	Main exit	Uldaman	70	-226.800003	49.090000	-46.030010	X	Dungeon	30		Exit
+358	Baelog	Uldaman	70	-355.967926	116.041687	-44.112286	X	Dungeon	30		Boss
+359	Remains of Paladin	Uldaman	70	-173.274734	171.323502	-47.411537	X	Dungeon	30		Quest
+360	Revelosh	Uldaman	70	-235.393265	154.943420	-44.629616	X	Dungeon	30		Boss
+361	Keystone (Door Open)	Uldaman	70	-234.533875	245.722305	-49.186695	X	Dungeon	30	Boss Ironaya	Door / Passage / Other Point of Interest
+362	Obsidian Sentinel	Uldaman	70	-180.828156	391.339111	-36.406372	X	Dungeon	30		Boss
+363	Side Exit	Uldaman	70	-212.221024	384.351837	-38.689766	X	Dungeon	30		Exit
+364	Annora	Uldaman	70	-160.048264	195.746567	-49.637077	X	Dungeon	30	Enchanting Trainer	Vendor/Repair
+365	Ancient Stone Keeper	Uldaman	70	-42.740082	221.215881	-48.327000	X	Dungeon	30	White Golem Boss	Boss
+366	Galgann Firehammer	Uldaman	70	-13.922981	416.780334	-46.346077	X	Dungeon	30		Boss
+367	Grimlok	Uldaman	70	46.560646	459.171143	-41.050091	X	Dungeon	30		Boss
+368	Altar of The Keepers	Uldaman	70	102.373093	272.061523	-26.532145	X	Dungeon	30	Opens Door to last boss	Door / Passage / Other Point of Interest
+369	Archaedas	Uldaman	70	95.619019	271.987335	-52.148697	X	Dungeon	30		Boss
+370	Hall of the Crafters	Uldaman	70	155.864258	294.703979	-52.226135	X	Dungeon	30	Last Room Quest and Treasure Chest	Quest
+371	Exit	Blackrock Depths	230	457.283752	32.149734	-69.933952	X	Dungeon	40		Exit
+372	High Interrogator Gerstahn	Blackrock Depths	230	302.395721	-131.120010	-70.386200	X	Dungeon	40	Boss in Detention Block	Boss
+373	Kharan Mighthammer	Blackrock Depths	230	418.446259	-214.558838	-65.095558	X	Dungeon	40	Prisoner Dwarf	Door / Passage / Other Point of Interest
+374	Commander Gor'shak	Blackrock Depths	230	371.793213	-172.426605	-70.123123	X	Dungeon	40	Prisoner Orc	Door / Passage / Other Point of Interest
+375	Marshal Windsor	Blackrock Depths	230	315.287964	-230.535553	-77.802917	X	Dungeon	40	Prisoner Human	Door / Passage / Other Point of Interest
+376	Ring of the Law	Blackrock Depths	230	579.331970	-194.558899	-53.560638	X	Dungeon	40		Boss
+377	Lord Roccor	Blackrock Depths	230	645.221069	-256.292816	-82.628143	X	Dungeon	40	Roams Around	Boss
+378	Houndmaster Grebmar	Blackrock Depths	230	602.462280	-211.326233	-84.499435	X	Dungeon	40		Boss
+379	Pyromancer Loregrain	Blackrock Depths	230	536.210266	-239.592163	-43.101303	X	Dungeon	40		Rare
+380	Bael'Gar	Blackrock Depths	230	667.406067	163.572403	-73.235008	X	Dungeon	40		Boss
+381	Lord Incendius	Blackrock Depths	230	915.022827	-296.813660	-71.763512	X	Dungeon	40	The Black Anvil	Boss
+382	Fineous Darkvire	Blackrock Depths	230	974.152527	-404.355438	-61.163616	X	Dungeon	40	Roams Around	Boss
+383	Warder Stilgiss	Blackrock Depths	230	809.969971	-350.100677	-50.578030	X	Dungeon	40	The Black Vault	Boss
+384	The Shadowforge Lock	Blackrock Depths	230	613.959045	-63.025806	-60.055702	X	Dungeon	40		Door / Passage / Other Point of Interest
+385	General Angerforge	Blackrock Depths	230	683.175537	15.643834	-60.057423	X	Dungeon	40		Boss
+386	Golem Lord Argelmach	Blackrock Depths	230	833.336853	34.658382	-53.645096	X	Dungeon	40		Boss
+387	Hurley Blackbreath	Blackrock Depths	230	908.893433	-151.997223	-49.758305	X	Dungeon	40	The Grim Guzzler - Smash Kegs	Boss
+388	Lokhtos Darkbargainer 	Blackrock Depths	230	907.426453	-187.282379	-43.702740	X	Dungeon	40	Vendor - The Grim Guzzler	Vendor/Repair
+389	Ambassador Flamelash	Blackrock Depths	230	987.613708	-238.347275	-61.906513	X	Dungeon	40		Boss
+390	Summoners' Tomb	Blackrock Depths	230	1261.604980	-254.662674	-78.219177	X	Dungeon	40	Boss and Mining Quest (Dark Iron Bar)	Boss
+391	The Black Forge	Blackrock Depths	230	1210.643433	-441.600739	-102.160080	X	Dungeon	40	The Molten Bridge	Door / Passage / Other Point of Interest
+392	Molten Core Entrance	Blackrock Depths	230	1117.956177	-458.732452	-102.826973	X	Raid	60		Door / Passage / Other Point of Interest
+393	The Lyceum	Blackrock Depths	230	1381.656982	-454.104889	-94.674393	X	Dungeon	40		Door / Passage / Other Point of Interest
+394	Magmus	Blackrock Depths	230	1397.616821	-695.619019	-92.070297	X	Dungeon	40		Boss
+395	Emperor Dagran Thaurissan	Blackrock Depths	230	1370.157471	-847.341492	-87.722038	X	Dungeon	40		Boss
+396	Exit	The Molten Core	409	1091.890015	-466.984985	-105.084000	X	Raid	60		Exit
+397	Lucifron	The Molten Core	409	952.170044	-939.567993	-184.475067	X	Raid	60		Boss (Roams Around)
+398	Magmadar	The Molten Core	409	1131.483154	-1043.491821	-181.065262	X	Raid	60		Boss
+399	Gehennas	The Molten Core	409	918.994690	-574.216370	-205.583313	X	Raid	60		Boss
+400	Garr	The Molten Core	409	653.455200	-516.317871	-209.326950	X	Raid	60		Boss
+401	Shazzrah	The Molten Core	409	564.321716	-778.835449	-208.047882	X	Raid	60		Boss
+402	Baron Geddon	The Molten Core	409	729.599182	-887.272827	-195.051178	X	Raid	60		Boss (Roams Around)
+403	Golemagg the Incinerator	The Molten Core	409	830.546936	-968.077759	-208.186798	X	Raid	60		Boss
+404	Sulfuron Harbinger	The Molten Core	409	635.638489	-1189.365356	-195.671478	X	Raid	60		Boss
+405	Majordomo Executus	The Molten Core	409	763.094604	-1235.011719	-118.839348	X	Raid	60		Boss
+406	Ragnaros	The Molten Core	409	850.625122	-816.689697	-229.469894	X	Raid	60		Boss
+407	Exit	Blackrock Spire	229	78.507545	-231.902466	51.190952	X	Dungeon	45		Exit
+408	Roughshod Pike	Blackrock Spire Lower	229	-26.270084	-588.878662	29.190929	X	Dungeon	45	Item for summoning boss Urok Doomhowl	Door / Passage / Other Point of Interest
+409	Spirestone Butcher	Blackrock Spire Lower	229	-30.549339	-459.042297	30.884245	X	Dungeon	45	Rare Roams	Rare
+410	Highlord Omokk	Blackrock Spire Lower	229	-38.146694	-301.935760	35.148026	X	Dungeon	45	Boss	Boss
+411	Shadow Hunter Vosh'gajin	Blackrock Spire Lower	229	-90.458801	-490.593536	24.251663	X	Dungeon	45	Boss	Boss
+412	War Master Voone	Blackrock Spire Lower	229	-10.127760	-447.697540	-18.644245	X	Dungeon	45	Boss	Boss
+413	Unfired Plate Gauntlets	Blackrock Spire Lower	229	-20.729267	-362.454590	-31.479769	X	Dungeon	45	BS Recipe part	Door / Passage / Other Point of Interest
+414	Mother Smolderweb	Blackrock Spire Lower	229	-110.884758	-574.187683	11.280635	X	Dungeon	45	Boss	Boss
+415	Urok Doomhowl	Blackrock Spire Lower	229	-45.349808	-396.005066	49.168369	X	Dungeon	45	Summon With Pike at Urok's Tribute Pile	Boss
+416	Quartermaster Zigris	Blackrock Spire Lower	229	-185.005432	-484.196960	87.390266	X	Dungeon	45	Boss	Boss
+417	Halycon + Gizrul the Slavener	Blackrock Spire Lower	229	-171.902267	-331.314911	64.401001	X	Dungeon	45	Boss (Gizrul come after u slay Halycon)	Boss
+418	Overlord Wyrmthalak	Blackrock Spire Lower	229	-12.210308	-503.817352	90.598289	X	Dungeon	45	Boss	Boss
+419	Awbee	Blackrock Spire Upper	229	72.275040	-420.629303	110.870972	X	Dungeon	45	Quest (Blue Whelp)	Quest
+420	Dragonspire Hall	Blackrock Spire Upper	229	159.707947	-310.359558	70.956329	X	Dungeon	45	Clear Rooms Around to Open the Door	Door / Passage / Other Point of Interest
+421	Pyroguard Emberseer	Blackrock Spire Lower	229	143.407364	-284.075714	91.549019	X	Dungeon	45	Boss (Click Blackrock Altar to empower and fight)	Boss
+422	Solakar Flamewreath	Blackrock Spire Upper	229	76.295006	-338.435822	91.545174	X	Dungeon	45	Loot Father Flame to summon	Boss (Must Summon)
+423	Darkstone Tablet	Blackrock Spire Upper	229	64.182907	-281.468903	95.961487	X	Dungeon	45	Quest object	Quest
+424	Goraluk Anvilcrack	Blackrock Spire Upper	229	125.841347	-263.692261	110.946335	X	Dungeon	45		Rare
+425	Warchief Rend Blackhand	Blackrock Spire Upper	229	160.745773	-427.899811	110.862930	X	Dungeon	45		Boss
+426	Blackwing Lair Entrance	Blackrock Spire Upper	229	168.885834	-475.389709	116.842422	X	Raid	60		Door / Passage / Other Point of Interest
+427	The Beast	Blackrock Spire Upper	229	30.903528	-554.046997	110.926712	X	Dungeon	45		Boss
+428	General Drakkisath	Blackrock Spire Upper	229	-17.351736	-296.325165	110.942299	X	Dungeon	45	Boss	Boss
+429	Razorgore the Untamed	Blackwing Lair	469	-7630.349121	-1076.340698	408.491791	X	Raid	60		Boss
+430	Vaelastrasz the Corrupt	Blackwing Lair	469	-7517.581543	-1022.273499	408.582672	X	Raid	60		Boss
+431	Broodlord Lashlayer	Blackwing Lair	469	-7585.580566	-1014.282104	449.164520	X	Raid	60		Boss
+432	Firemaw	Blackwing Lair	469	-7494.323730	-971.180176	449.242340	X	Raid	60		Boss (Roams Around)
+433	Master Elemental Shaper Krixix	Blackwing Lair	469	-7383.597168	-958.157043	464.959595	X	Raid	60	"Drops Mining Recipe for ""Enchanted Elementium Bar"""	Door / Passage / Other Point of Interest
+434	Ebonroc and Flamegor	Blackwing Lair	469	-7367.053223	-1034.452271	476.789032	X	Raid	60		Boss
+435	Chromaggus	Blackwing Lair	469	-7507.685547	-1091.178589	476.554657	X	Raid	60		Boss
+436	Nefarian	Blackwing Lair	469	-7565.591797	-1243.535645	476.800293	X	Raid	60		Boss
+437	Exit	Blackwing Lair	469	-7670.512207	-1106.708984	397.332733	X	Raid	60		Exit
+438	Exit Main	Gnomeregan	90	-330.493378	-3.338310	-152.845474	X	Dungeon	15		Exit
+439	Viscous Fallout	Gnomeregan	90	-404.571320	93.031013	-210.912430	X	Dungeon	15	Boss - Roams Around	Boss (Roams Around)
+440	Matrix Punchograph 3005-B	Gnomeregan	90	-553.571838	109.325935	-201.861359	X	Dungeon	15		Quest
+441	The Sparklematic 5200	Gnomeregan	90	-545.626587	203.279846	-193.722549	X	Dungeon	15		Boss
+442	Electrocutioner 6000	Gnomeregan	90	-544.877686	521.226074	-216.809952	X	Dungeon	15	Boss  (Matrix Punchograph 3005-C)	Boss
+443	Exit Side	Gnomeregan	90	-733.378906	1.397162	-249.008728	X	Dungeon	15	Workshop	Exit
+444	Gnomeregan Side Entrance	Dun Morogh	0	-4856.338867	771.977051	241.184525	X	Dungeon	15		Door / Passage / Other Point of Interest
+445	Grubbis	Gnomeregan	90	-511.109558	-133.383926	-152.497940	X	Dungeon	15	Boss - Talk With Blastmaster Emi Shortfuse	Boss (Must Summon)
+446	Matrix Punchograph 3005-D	Gnomeregan	90	-842.264893	371.433899	-316.873077	X	Dungeon	15		Quest
+447	Mekgineer Thermaplugg	Gnomeregan	90	-513.148560	650.239380	-327.114380	X	Dungeon	15	Boss	Boss
+448	Crowd Pummeler 9-60	Gnomeregan	90	-909.322388	365.978729	-272.596313	X	Dungeon	15	Boss	Boss
+449	Exit Main	Stratholme	329	3395.605713	-3380.477295	142.698044	X	Dungeon	45		Exit
+450	Fras Siabi's Postbox	Stratholme	329	3468.133057	-3303.280029	132.708435	X	Dungeon	45	Click on Mailbox to Summon	Door / Passage / Other Point of Interest
+451	King's Square Postbox	Stratholme	329	3569.117676	-3356.029297	130.962692	X	Dungeon	45	Click Mailbox to Summon	Door / Passage / Other Point of Interest
+452	Market Row Postbox	Stratholme	329	3687.921875	-3405.371094	132.849396	X	Dungeon	45	Click Mailbox to Summon	Door / Passage / Other Point of Interest
+453	The Unforgiven	Stratholme	329	3719.333496	-3427.850586	131.759308	X	Dungeon	45	Boss	Boss
+454	Festival Lane Postbox	Stratholme	329	3659.889648	-3475.233643	138.540756	X	Dungeon	45	Click Mailbox to Summon	Door / Passage / Other Point of Interest
+455	Crusaders' Square Postbox	Stratholme	329	3647.902832	-3167.528076	128.341232	X	Dungeon	45	Click Mailbox to Summon	Boss (Must Summon)
+456	Timmy The Cruel	Stratholme	329	3638.546143	-3197.258057	128.671768	X	Dungeon	45	Boss - Must kill all mobs in square to summon	Boss (Must Summon)
+457	Malor the Zealous	Stratholme	329	3617.309570	-3129.664795	135.664795	X	Dungeon	45	Boss - Malor's Strongbox at the corner	Boss
+458	Crimson Hammersmith	Stratholme	329	3590.715820	-2996.260742	125.954506	X	Dungeon	45	Boss - Loot Blacksmithing Plans from the Ground to Summon	Boss
+459	Cannon Master Willey	Stratholme	329	3562.571045	-2948.411133	125.001610	X	Dungeon	45	Boss	Boss
+460	Archivist Galford	Stratholme	329	3462.554932	-3104.948242	136.546127	X	Dungeon	45	Boss - Quest Item Loot From Wall Image	Boss
+461	Grand Crusader Dathrohan	Stratholme	329	3414.977783	-3071.773193	136.502747	X	Dungeon	45	Boss	Boss
+462	Exit Side	Stratholme	329	3593.042725	-3646.945313	138.503952	X	Dungeon	45		Exit
+463	Magistrate Barthilas 1	Stratholme	329	3644.284668	-3597.683838	137.642517	X	Dungeon	45	Boss - Possible Spawn 1	Boss
+464	Aurius	Stratholme	329	3681.183350	-3649.792480	140.637848	X	Dungeon	45	Quest NPC	Quest
+465	Black Guard Swordsmith	Stratholme	329	3820.859131	-3694.028076	143.983459	X	Dungeon	45	Boss - Loot Blacksmithing Plans to Summon	Boss
+466	Baroness Anastari	Stratholme	329	3854.876465	-3718.214600	148.091400	X	Dungeon	45	Boss	Boss
+467	Nerub'enkan	Stratholme	329	3856.845947	-3524.290039	144.209900	X	Dungeon	45	Boss	Boss
+468	Maleki the Pallid	Stratholme	329	4032.913330	-3650.621338	135.655045	X	Dungeon	45	Boss	Boss
+469	Magistrate Barthilas 2	Stratholme	329	4081.218018	-3537.457764	124.620186	X	Dungeon	45	Boss - Possible Spawn 2	Boss
+470	Ramstein the Gorger	Stratholme	329	4033.368408	-3394.631836	118.935394	X	Dungeon	45	Boss - you must clear square to summon	Boss (Must Summon)
+471	Baron Rivendare	Stratholme	329	4015.202637	-3360.145752	115.058983	X	Dungeon	45	Boss	Boss
+472	Exit	Shadowfang Keep	33	-228.757538	2109.900146	76.889801	X	Dungeon	14		Exit
+473	Rethilgore	Shadowfang Keep	33	-250.076294	2140.852051	86.261230	X	Dungeon	14		Boss
+474	Deathstalker Vincent	Shadowfang Keep	33	-216.216415	2146.796631	80.956505	X	Dungeon	14	Quest NPC	Quest
+475	Baron Silverlaine	Shadowfang Keep	33	-274.052094	2291.626953	76.153442	X	Dungeon	14		Boss
+476	Commander Springvale	Shadowfang Keep	33	-224.424072	2268.135986	102.759102	X	Dungeon	14		Boss
+477	Odo the Blindwatcher	Shadowfang Keep	33	-250.282303	2150.832764	100.029236	X	Dungeon	14		Boss
+478	Fenrus the Devourer	Shadowfang Keep	33	-156.100677	2165.414307	128.757492	X	Dungeon	14		Boss
+479	Wolf Master Nandos	Shadowfang Keep	33	-144.575302	2171.695557	155.678604	X	Dungeon	14		Boss
+480	Archmage Arugal	Shadowfang Keep	33	-92.134216	2164.999268	155.691620	X	Dungeon	14		Boss
+481	Exit	Stormwind Stockade	34	54.393986	0.277110	-18.403009	X	Dungeon	15		Exit
+482	Lord Marrowgar	Icecrown Citadel	631	-387.683533	2281.015625	42.003296	X	Raid	80		Boss
+483	Lady Deathwhisper	Icecrown Citadel	631	-658.865906	2238.573486	51.816978	X	Raid	80		Boss
+484	Deathbringer Saurfang	Icecrown Citadel	631	-547.332764	2203.282227	539.291809	X	Raid	80		Boss
+485	Rotface	Icecrown Citadel	631	4470.035156	3101.438965	360.386353	X	Raid	80		Boss
+486	Festergut	Icecrown Citadel	631	4292.525879	3098.891357	360.386658	X	Raid	80		Boss
+487	Professor Putricide	Icecrown Citadel	631	4340.701172	3167.846436	389.398102	X	Raid	80		Boss
+488	Blood Prince Council	Icecrown Citadel	631	4642.464844	2817.253906	361.160248	X	Raid	80		Boss
+489	Blood-Queen Lana'thel	Icecrown Citadel	631	4568.270996	2791.928223	400.138397	X	Raid	80		Boss
+490	The Spire	Icecrown Citadel	631	4390.435059	2771.634277	357.656342	X	Raid	80		Door / Passage / Other Point of Interest
+491	Sister Svalna	Icecrown Citadel	631	4355.250977	2453.934570	358.432739	X	Raid	80		Door / Passage / Other Point of Interest
+492	Valithria Dreamwalker	Icecrown Citadel	631	4271.589355	2520.309570	364.868774	X	Raid	80		Boss
+493	Sindragosa	Icecrown Citadel	631	4294.134766	2478.647217	211.124054	X	Raid	80		Boss
+494	Targorr the Dread	Stormwind Stockade	34	80.490311	-19.524858	-26.522886	X	Dungeon	15	possible spot 1	Boss
+495	Targorr the Dread	Stormwind Stockade	34	105.652962	28.643225	-26.522900	X	Dungeon	15	possible spot 2	Boss
+496	Targorr the Dread	Stormwind Stockade	34	172.524353	5.721805	-25.606213	X	Dungeon	15	possible spot 3	Boss
+497	Targorr the Dread	Stormwind Stockade	34	116.156189	64.243759	-34.856037	X	Dungeon	15	possible spot 4	Boss
+498	Dextren Ward	Stormwind Stockade	34	167.910736	121.862267	-33.939560	X	Dungeon	15	Boss	Boss
+499	Kam Deepfury	Stormwind Stockade	34	129.810699	-75.829636	-34.734249	X	Dungeon	15		Boss
+500	Hamhock	Stormwind Stockade	34	105.171577	-93.456009	-33.938026	X	Dungeon	15		Boss
+501	Bazil Thredd	Stormwind Stockade	34	78.742149	-141.356842	-33.939564	X	Dungeon	15	Boss	Boss
+502	Exit	The Temple of Atal'Hakkar	109	-321.223480	99.208412	-131.850006	X	Dungeon	35		Exit
+503	Atal'alarion	The Temple of Atal'Hakkar	109	-423.185699	99.535759	-174.548813	X	Dungeon	35	Altar of Hakkar summon	Boss (Must Summon)
+504	Avatar of Hakkar	The Temple of Atal'Hakkar	109	-458.843018	275.323730	-90.442177	X	Dungeon	35		Boss
+505	Morphaz & Hazzas	The Temple of Atal'Hakkar	109	-679.002930	100.374420	-90.829842	X	Dungeon	35		Boss
+506	Shade of Eranikus	The Temple of Atal'Hakkar	109	-693.568604	-13.478390	-90.835594	X	Dungeon	35		Boss
+507	Dreamscythe	The Temple of Atal'Hakkar	109	-488.280853	100.825912	-93.475861	X	Dungeon	35		Boss
+508	Jammal'an the Prophet	The Temple of Atal'Hakkar	109	-431.509125	-60.595181	-88.715889	X	Dungeon	35		Boss
+509	Atal'ai Statue 1	The Temple of Atal'Hakkar	109	-410.400299	88.619362	-148.743896	X	Dungeon	35		Door / Passage / Other Point of Interest
+510	Atal'ai Statue 2	The Temple of Atal'Hakkar	109	-436.535065	44.279575	-148.744781	X	Dungeon	35		Door / Passage / Other Point of Interest
+511	Atal'ai Statue 3	The Temple of Atal'Hakkar	109	-497.934631	43.439682	-148.744324	X	Dungeon	35		Door / Passage / Other Point of Interest
+512	Atal'ai Statue 4	The Temple of Atal'Hakkar	109	-525.123291	96.732246	-148.743393	X	Dungeon	35		Door / Passage / Other Point of Interest
+513	Atal'ai Statue 5	The Temple of Atal'Hakkar	109	-495.971252	145.863235	-148.743790	X	Dungeon	35		Door / Passage / Other Point of Interest
+514	Atal'ai Statue 6	The Temple of Atal'Hakkar	109	-437.971558	141.771851	-148.744308	X	Dungeon	35		Door / Passage / Other Point of Interest
+515	Hukku	The Temple of Atal'Hakkar	109	-397.906464	51.258053	-65.394669	X	Dungeon	35	Atal'ai Defenders	Boss
+516	Mijan	The Temple of Atal'Hakkar	109	-402.964783	141.531509	-65.861221	X	Dungeon	35	Atal'ai Defenders	Boss
+517	Zul'Lor	The Temple of Atal'Hakkar	109	-467.253387	177.091797	-65.792633	X	Dungeon	35	Atal'ai Defenders	Boss
+518	Zolo	The Temple of Atal'Hakkar	109	-532.174927	138.339111	-66.361427	X	Dungeon	35	Atal'ai Defenders	Boss
+519	Gasher	The Temple of Atal'Hakkar	109	-538.227539	56.780544	-65.765244	X	Dungeon	35	Atal'ai Defenders	Boss
+520	Loro	The Temple of Atal'Hakkar	109	-466.215759	11.664816	-65.335838	X	Dungeon	35	Atal'ai Defenders	Boss
+521	Scarlet Monastery - Graveyard Entrance	Tirisfal Glades	0	2915.623535	-801.672913	160.332001	X	Dungeon	21	Graveyard - Recommended Level 28+	Door / Passage / Other Point of Interest
+522	Scarlet Monastery - Cathedral Entrance	Tirisfal Glades	0	2913.550781	-825.038025	160.327881	X	Dungeon	21	Cathedral - Recommended level 36+	Door / Passage / Other Point of Interest
+523	Scarlet Monastery - Armory Entrance	Tirisfal Glades	0	2887.104248	-836.022522	160.327271	X	Dungeon	21	Armory - Recommended level 33+	Door / Passage / Other Point of Interest
+524	Scarlet Monastery - Library Entrance	Tirisfal Glades	0	2870.396973	-819.562195	160.333847	X	Dungeon	21	Library - Recommended Level 31+	Door / Passage / Other Point of Interest
+525	Exit - Graveyard	Scarlet Monastery - Graveyard	189	1688.868652	1052.653320	18.677399	X	Dungeon	20		Exit
+526	Interrogator Vishas - Graveyard	Scarlet Monastery - Graveyard	189	1794.842896	1120.171753	7.490324	X	Dungeon	20		Boss
+527	Bloodmage Thalnos - Graveyard	Scarlet Monastery - Graveyard	189	1806.207520	1402.115967	-8.797155	X	Dungeon	20		Boss
+528	Exit - Cathedral	Scarlet Monastery - Cathedral	189	855.682983	1321.500000	18.670900	X	Dungeon	20		Exit
+529	Scarlet Commander Mograine & High Inquisitor Whitemane - Cathedral	Scarlet Monastery - Cathedral	189	1167.614258	1410.981567	31.964649	X	Dungeon	20	Clear Room or all mobs attack	Boss
+530	High Inquisitor Whitemane - Cathedral	Scarlet Monastery - Cathedral	189	1213.192505	1393.057007	29.009956	X	Dungeon	20		Boss
+531	High Inquisitor Fairbanks - Cathedral	Scarlet Monastery - Cathedral	189	1166.915771	1356.801025	31.549440	X	Dungeon	20		Boss
+532	Exit - Armory	Scarlet Monastery - Armory	189	1610.829956	-323.433014	18.673790	X	Dungeon	20		Exit
+533	Herod - Armory	Scarlet Monastery - Armory	189	1980.781372	-430.697021	11.272387	X	Dungeon	20		Boss
+534	Exit - Library	Scarlet Monastery - Library	189	255.345993	-209.089996	18.677299	X	Dungeon	20		Exit
+535	Houndmaster Loksey - Library	Scarlet Monastery - Library	189	142.394150	-251.549301	19.202082	X	Dungeon	20		Boss
+536	Arcanist Doan - Library	Scarlet Monastery - Library	189	162.596191	-419.116058	18.518726	X	Dungeon	20		Boss
+537	Doan's Strongbox - Library	Scarlet Monastery - Library	189	131.580872	-430.775299	18.518642	X	Dungeon	20	The Scarlet Key	Door / Passage / Other Point of Interest
+538	Exit	Scholomance	289	196.369995	127.050003	134.910004	X	Dungeon	45		Exit
+539	Blood Steward of Kirtonos	Scholomance	289	214.967560	39.723392	115.707893	X	Dungeon	45	Roams in the room	Boss (Roams Around)
+540	Kirtonos the Herald	Scholomance	289	314.893555	97.763229	101.646774	X	Dungeon	45		Boss (Must Summon)
+541	Jandice Barov	Scholomance	289	269.438873	67.666550	95.841972	X	Dungeon	45		Boss
+542	Torch Lever	Scholomance	289	227.108444	85.277206	95.822601	X	Dungeon	45		Door / Passage / Other Point of Interest
+543	Rattlegore	Scholomance	289	160.361588	167.924316	93.085182	X	Dungeon	45		Boss
+544	Old Treasure Chest	Scholomance	289	167.199371	97.572945	104.715721	X	Dungeon	45		Door / Passage / Other Point of Interest
+545	Marduk Blackpool & Vectus	Scholomance	289	146.497910	108.116081	104.583580	X	Dungeon	45		Boss
+546	Ras Frostwhisper	Scholomance	289	-49.986210	154.609894	83.545616	X	Dungeon	45		Boss
+547	Alchemy Lab	Scholomance	289	37.187611	156.952972	83.545609	X	Dungeon	45		Door / Passage / Other Point of Interest
+548	Instructor Malicia	Scholomance	289	80.810867	-3.709452	85.228264	X	Dungeon	45		Boss
+549	Doctor Theolen Krastinov	Scholomance	289	185.952835	-100.753792	85.228271	X	Dungeon	45		Boss
+550	Lorekeeper Polkelt	Scholomance	289	281.072571	-2.257363	85.228264	X	Dungeon	45		Boss
+551	The Ravenian	Scholomance	289	106.188759	-12.287034	75.373276	X	Dungeon	45		Boss
+552	Lord Alexei Barov	Scholomance	289	193.012939	-77.830841	70.773392	X	Dungeon	45		Boss
+553	Lady Illucia Barov	Scholomance	289	264.397217	6.964389	75.249962	X	Dungeon	45		Boss
+554	Darkmaster Gandling	Scholomance	289	180.071808	9.755790	81.274750	X	Dungeon	45	Must kill all 6 bosses around to summon	Boss (Must Summon)
+555	Exit - Main	The Deadmines	36	-16.400000	-383.070007	61.779999	X	Dungeon	10		Exit
+556	Rhahk'Zor	The Deadmines	36	-201.211288	-427.536194	54.517788	X	Dungeon	10		Boss
+557	Sneed's Shredder	The Deadmines	36	-272.183990	-478.615204	49.161873	X	Dungeon	10		Boss
+558	Gilnid	The Deadmines	36	-170.719391	-588.947144	20.300734	X	Dungeon	10		Boss
+559	Defias Gunpowder	The Deadmines	36	-108.610619	-617.215820	13.678724	X	Dungeon	10		Door / Passage / Other Point of Interest
+560	Mr. Smite	The Deadmines	36	10.966191	-763.889465	9.211767	X	Dungeon	10		Boss
+561	Cookie	The Deadmines	36	-67.410126	-865.829163	16.932076	X	Dungeon	10		Boss (Roams Around)
+562	Captain Greenskin	The Deadmines	36	-102.753189	-819.064209	38.051758	X	Dungeon	10		Boss (Roams Around)
+563	Edwin VanCleef	The Deadmines	36	-55.980160	-819.623840	41.960464	X	Dungeon	10		Boss
+564	Exit - Side	The Deadmines	36	-107.463066	-999.723816	34.151859	X	Dungeon	10		Exit
+565	Exit - Main	Karazhan	532	-11104.596680	-2001.150757	49.892700	X	Raid	70		Exit
+566	Attumen the Huntsman (Midnight)	Karazhan	532	-11113.824219	-1928.189331	49.432972	X	Raid	70		Boss
+567	Moroes	Karazhan	532	-10974.624023	-1862.205200	81.729507	X	Raid	70		Boss
+568	Maiden of Virtue	Karazhan	532	-10969.434570	-2127.890625	92.176125	X	Raid	70		Boss
+569	Keanna's Log	Karazhan	532	-10844.662109	-2031.030029	90.925049	X	Raid	70		Quest
+570	Barnes (The Stage Manager)	Karazhan	532	-10866.609375	-1778.265625	90.434769	X	Raid	70	Opera event start	Boss
+571	Exit - Side	Karazhan	532	-11041.816406	-1994.483154	96.549843	X	Raid	70		Exit
+572	Nightbane	Karazhan	532	-11153.345703	-1891.379639	91.473480	X	Raid	70		Boss (Must Summon)
+573	The Curator	Karazhan	532	-11167.352539	-1921.911255	165.766296	X	Raid	70		Boss
+574	Wravien	Karazhan	532	-11177.840820	-1802.430054	136.655136	X	Raid	70		Quest
+575	Gradav	Karazhan	532	-11186.151367	-1724.456055	136.024429	X	Raid	70		Quest
+576	Kamsis	Karazhan	532	-11257.293945	-1719.510620	136.024536	X	Raid	70		Quest
+577	Terestian Illhoof	Karazhan	532	-11230.824219	-1722.737427	180.011124	X	Raid	70		Boss
+578	Shade of Aran	Karazhan	532	-11170.875000	-1938.222900	232.008575	X	Raid	70		Boss
+579	Ythyar	Karazhan	532	-11153.502930	-1853.883911	238.167465	X	Raid	70		Vendor/Repair
+580	Echo of Medivh	Karazhan	532	-11100.547852	-1854.921265	221.069733	X	Raid	70	Chess Event Start	Boss
+581	Netherspite	Karazhan	532	-11131.397461	-1679.844238	278.239319	X	Raid	70		Boss
+582	Prince Malchezaar	Karazhan	532	-10990.818359	-1968.269897	274.997406	X	Raid	70		Boss
+583	Exit	Zul'Gurub	309	-11916.077148	-1234.036987	92.533401	X	Raid	60		Exit
+584	High Priestess Jeklik	Zul'Gurub	309	-12307.686523	-1361.365234	144.027985	X	Raid	60	Bat	Boss
+585	High Priestess Mar'li	Zul'Gurub	309	-12348.025391	-1563.130371	133.367508	X	Raid	60	Spider	Boss
+586	Bloodlord Mandokir	Zul'Gurub	309	-12152.176758	-1915.458740	153.217499	X	Raid	60	Raptor mount	Boss
+587	Zanza the Restless	Zul'Gurub	309	-12013.715820	-1815.306396	81.026039	X	Raid	60		Quest
+588	High Priest Venoxis	Zul'Gurub	309	-12011.230469	-1692.700684	32.284214	X	Raid	60	Snake	Boss
+589	Edge of Madness	Zul'Gurub	309	-11886.100586	-1910.783447	65.147011	X	Raid	60	Summon - Random	Boss (Must Summon)
+590	Gahz'ranka	Zul'Gurub	309	-11696.947266	-1767.418457	12.554363	X	Raid	60		Boss (Must Summon)
+591	High Priest Thekal	Zul'Gurub	309	-11685.750000	-1965.822510	63.045795	X	Raid	60	Tiger mount	Boss
+592	High Priestess Arlokk	Zul'Gurub	309	-11566.094727	-1626.628174	41.298046	X	Raid	60	Panther summon (Click the gong)	Boss (Must Summon)
+593	Hakkar	Zul'Gurub	309	-11784.972656	-1694.619995	52.891823	X	Raid	60		Boss
+594	Jin'do the Hexxer	Zul'Gurub	309	-11504.752930	-1248.775269	81.398575	X	Raid	60		Boss
+595	Ghamoo-ra	Blackfathom Deeps	48	-427.083252	177.719223	-54.009083	X	Dungeon	19		Boss
+596	Lady Sarevess	Blackfathom Deeps	48	-323.890289	415.413605	-54.892323	X	Dungeon	19		Boss
+597	Argent Guard Thaelrid	Blackfathom Deeps	48	-525.342773	330.171417	-50.283367	X	Dungeon	19		Quest
+598	Gelihast	Blackfathom Deeps	48	-420.604797	-4.870526	-47.278526	X	Dungeon	19		Boss
+599	Old Serra'kis	Blackfathom Deeps	48	-758.734741	-152.619675	-46.629189	X	Dungeon	19		Boss
+600	Baron Aquanis	Blackfathom Deeps	48	-779.953857	-62.830837	-45.111504	X	Dungeon	19	Fathom Stone	Boss (Must Summon)
+601	Twilight Lord Kelris	Blackfathom Deeps	48	-808.167480	-187.494324	-25.871540	X	Dungeon	19		Boss
+602	Aku'mai'	Blackfathom Deeps	48	-815.215393	-470.756409	-33.665306	X	Dungeon	19		Boss
+603	Exit	Blackfathom Deeps	48	-151.219299	103.729034	-40.450806	X	Dungeon	19		Exit
+605	Exit East	Dire Maul East	429	44.449902	-154.822006	-2.714376	X	Dungeon	45		Exit
+606	Pusillin	Dire Maul East	429	90.291565	-197.129486	-4.146393	X	Dungeon	45		Quest
+607	Lethtendris	Dire Maul East	429	-41.872734	-445.271515	16.407097	X	Dungeon	45		Boss
+608	Hydrospawn	Dire Maul East	429	-39.798809	-427.815155	-58.614471	X	Dungeon	45		Boss
+609	Zevrim Thornhoof	Dire Maul East	429	-1.595193	-470.293823	-36.901360	X	Dungeon	45		Boss
+610	Old Ironbark	Dire Maul East	429	-68.411072	-271.297058	-57.738819	X	Dungeon	45		Door / Passage / Other Point of Interest
+611	Alzzin the Wildshaper	Dire Maul East	429	234.965408	-439.040955	-119.961777	X	Dungeon	45		Boss
+612	Exit North	Dire Maul North	429	256.707184	-24.619610	-2.587370	X	Dungeon	45		Exit
+613	Guard Mol'dar	Dire Maul North	429	438.011078	4.330147	-15.585815	X	Dungeon	45		Boss
+614	Stomper Kreeg	Dire Maul North	429	456.106995	92.067055	-3.886159	X	Dungeon	45		Boss
+615	Guard Fengus	Dire Maul North	429	386.989319	245.927673	11.439580	X	Dungeon	45		Boss
+616	Guard Slip'kik	Dire Maul North	429	529.732422	554.762085	-25.401827	X	Dungeon	45		Boss (Roams Around)
+617	Knot Thimblejack	Dire Maul North	429	579.044250	523.006226	-25.402712	X	Dungeon	45		Quest
+618	Captain Kromcrush	Dire Maul North	429	600.546265	464.542389	29.474644	X	Dungeon	45		Boss
+619	King Gordok	Dire Maul North	429	815.785156	447.760620	37.318268	X	Dungeon	45		Boss
+620	Exit West	Dire Maul West	429	-66.238365	162.641891	-3.464692	X	Dungeon	45		Exit
+621	Pylon 1	Dire Maul West	429	21.084780	248.413773	-7.460330	X	Dungeon	45		Door / Passage / Other Point of Interest
+622	Tendris Warpwood	Dire Maul West	429	56.774399	461.735107	-23.307566	X	Dungeon	45		Boss
+623	Magister Kalendris	Dire Maul West	429	5.143582	573.091919	-4.379756	X	Dungeon	45		Boss
+624	Pylon 2	Dire Maul West	429	88.973976	423.990936	28.601099	X	Dungeon	45		Door / Passage / Other Point of Interest
+625	Shen'dralar Ancient	Dire Maul West	429	12.666430	394.486450	25.057417	X	Dungeon	45		Quest
+626	Pylon 3	Dire Maul West	429	-115.979759	470.393066	28.601070	X	Dungeon	45		Door / Passage / Other Point of Interest
+627	Illyanna Ravenoak	Dire Maul West	429	45.782017	562.980957	28.607916	X	Dungeon	45		Boss (Roams Around)
+628	Pylon 4	Dire Maul West	429	-174.428543	701.830078	-24.576990	X	Dungeon	45		Door / Passage / Other Point of Interest
+629	Pylon 5	Dire Maul West	429	98.286972	704.331055	-24.577227	X	Dungeon	45		Door / Passage / Other Point of Interest
+630	Immol'thar	Dire Maul West	429	2.943564	796.475098	-33.061787	X	Dungeon	45		Boss (Must Summon)
+631	Prince Tortheldrin	Dire Maul West	429	130.466583	593.896912	-48.466141	X	Dungeon	45		Boss
+632	Skeletal Remains of Kariel Winthalus	Dire Maul West	429	166.770157	527.308533	-48.466141	X	Dungeon	45		Quest
+633	Shen'dralar Provisioner	Dire Maul West	429	122.747711	461.258209	-48.463181	X	Dungeon	45		Vendor/Repair
+634	Tinkerer Gizlock	Maraudon Earthsong	349	154.416840	-323.741821	-173.614807	X	Dungeon	30		Boss
+635	Landslide	Maraudon Earthsong	349	325.993683	-195.426270	-59.899067	X	Dungeon	30		Boss
+636	Princess Theradras	Maraudon Earthsong	349	-12.780870	65.714981	-126.320610	X	Dungeon	30		Boss
+637	Rotgrip	Maraudon Earthsong	349	24.487625	-71.174530	-195.786026	X	Dungeon	30		Boss (Roams Around)
+638	Celebras the Cursed	Maraudon Purple	349	759.845947	70.043747	-88.149055	X	Dungeon	30		Boss
+639	Lord Vyletongue	Maraudon Purple	349	698.263855	-231.815659	-47.555328	X	Dungeon	30		Boss
+640	Spirit of Maraudos	Maraudon Purple	349	696.033936	-315.530212	-52.019295	X	Dungeon	30	Roams Around - The Fourth Kahn	Quest
+641	Exit Purple	Maraudon Purple	349	750.539246	-614.116882	-33.159534	X	Dungeon	30		Exit
+642	Exit Orange	Maraudon Orange	349	1019.690002	-458.309998	-43.430000	X	Dungeon	30		Exit
+643	Spirit of Veng	Maraudon Orange	349	899.779846	-254.356064	-46.143753	X	Dungeon	30	Roams - The Fifth Kahn	Quest
+644	Noxxion	Maraudon Orange	349	1147.921509	-227.823013	-79.205498	X	Dungeon	30		Boss
+645	Razorlash	Maraudon Orange	349	956.906128	-10.469510	-62.962124	X	Dungeon	30		Boss
+646	Exit	Ragefire Chasm	389	3.810000	-14.820000	-17.840000	X	Dungeon	10		Exit
+647	Maur Grimtotem	Ragefire Chasm	389	-139.879272	30.673111	-38.411865	X	Dungeon	10		Quest
+648	Taragaman the Hungerer	Ragefire Chasm	389	-248.924561	165.723511	-18.589670	X	Dungeon	10		Boss
+649	Bazzalan	Ragefire Chasm	389	-378.933136	129.448624	7.738520	X	Dungeon	10		Boss
+650	Jargosh the Invoker	Ragefire Chasm	389	-389.806671	197.183807	-21.436974	X	Dungeon	10		Boss
+651	Exit	Old Hillsbrad Foothills	560	2739.319580	1316.394287	14.042356	X	Dungeon	66		Exit
+652	Barrel 1	Old Hillsbrad Foothills	560	2226.287109	249.713745	53.850487	X	Dungeon	66		Quest
+653	Erozion	Old Hillsbrad Foothills	560	2376.737793	1178.711426	65.595154	X	Dungeon	66		Quest
+654	Barrel 2	Old Hillsbrad Foothills	560	2169.464600	244.811127	54.571400	X	Dungeon	66		Quest
+655	Barrel 3	Old Hillsbrad Foothills	560	2065.577881	106.356575	54.601170	X	Dungeon	66		Quest
+656	Barrel 4	Old Hillsbrad Foothills	560	2079.387695	75.099358	53.692711	X	Dungeon	66		Quest
+657	Barrel 5	Old Hillsbrad Foothills	560	2109.496094	53.599476	53.726727	X	Dungeon	66		Quest
+658	Lieutenant Drake	Old Hillsbrad Foothills	560	2095.551025	91.847366	52.706795	X	Dungeon	66		Boss (Must Summon)
+659	Thrall	Old Hillsbrad Foothills	560	2231.277588	115.167053	82.295967	X	Dungeon	66		Quest
+660	Captain Skarloc	Old Hillsbrad Foothills	560	2064.258301	228.576035	64.555161	X	Dungeon	66		Boss (Must Summon)
+661	Epoch Hunter	Old Hillsbrad Foothills	560	2634.646484	669.262634	54.381783	X	Dungeon	66		Boss (Must Summon)
+662	Exit	The Culling of Stratholme	595	1432.137695	554.903625	36.167786	X	Dungeon	75		Exit
+663	Chromie 1	The Culling of Stratholme	595	1548.364258	573.541748	92.607475	X	Dungeon	75		Quest
+664	Chromie 2	The Culling of Stratholme	595	1811.895752	1281.984253	142.174866	X	Dungeon	75		Quest
+665	Arthas	The Culling of Stratholme	595	1903.973389	1289.642456	143.179871	X	Dungeon	75		Door / Passage / Other Point of Interest
+666	Meathook	The Culling of Stratholme	595	2158.167480	1285.127930	133.637604	X	Dungeon	75		Boss (Must Summon)
+667	Chrono-Lord Epocj	The Culling of Stratholme	595	2414.792969	1118.439697	148.076248	X	Dungeon	75		Boss (Must Summon)
+668	Infinite Corruptor	The Culling of Stratholme	595	2316.436523	1262.540527	133.573944	X	Dungeon	75	Heroic Only	Boss
+669	Mal'Ganis	The Culling of Stratholme	595	2307.453125	1461.064087	127.807152	X	Dungeon	75		Boss (Must Summon)
+670	Exit	Zul'Farrak	209	1213.520020	841.590027	8.928154	X	Dungeon	35		Exit
+671	Theka the Martyr	Zul'Farrak	209	1816.834351	835.748718	8.877179	X	Dungeon	35		Boss (Roams Around)
+672	Tablet of Theka	Zul'Farrak	209	1802.698486	858.635620	8.877535	X	Dungeon	35		Quest
+673	Antu'sul	Zul'Farrak	209	1814.688110	669.498718	15.192750	X	Dungeon	35		Boss
+674	Witch Doctor Zum'rah	Zul'Farrak	209	1910.405884	1009.180786	11.692617	X	Dungeon	35		Boss
+675	Sandfury Executioner	Zul'Farrak	209	1886.720825	1266.093628	41.527576	X	Dungeon	35		Door / Passage / Other Point of Interest
+676	Prisoners	Zul'Farrak	209	1886.633911	1296.768799	48.232605	X	Dungeon	35		Door / Passage / Other Point of Interest
+677	Chief Ukorz Sandscalp & Ruuzlu	Zul'Farrak	209	1717.416016	1022.855164	55.054806	X	Dungeon	35		Boss
+678	Hydromancer Velratha	Zul'Farrak	209	1682.663696	1191.317871	9.460258	X	Dungeon	35		Boss (Roams Around)
+679	Gahz'rilla	Zul'Farrak	209	1652.313354	1171.814819	10.845752	X	Dungeon	35	click Gong of Zul'Farrak	Boss (Must Summon)
+680	Exit	The Wailing Caverns	43	-163.490005	132.899994	-73.662140	X	Dungeon	10		Exit
+681	Lord Cobrahn	The Wailing Caverns	43	-151.623978	425.467682	-71.614731	X	Dungeon	10		Boss
+682	Verdan the Everliving	The Wailing Caverns	43	-97.883179	62.342854	-28.895689	X	Dungeon	10		Boss
+683	Lord Serpentis	The Wailing Caverns	43	-106.046280	-37.738979	-28.454458	X	Dungeon	10		Boss
+684	Skum	The Wailing Caverns	43	-265.385223	-332.169830	-66.562157	X	Dungeon	10		Boss
+685	Lord Pythas	The Wailing Caverns	43	47.686020	-243.176834	-78.777008	X	Dungeon	10		Boss
+686	Kresh	The Wailing Caverns	43	-9.001968	249.338928	-106.360497	X	Dungeon	10		Boss (Roams Around)
+687	Lady Anacondra 1	The Wailing Caverns	43	-72.961983	272.747681	-91.908073	X	Dungeon	10	Multiple spawn locations	Boss
+688	Lady Anacondra 2	The Wailing Caverns	43	-12.129174	316.779694	-89.212807	X	Dungeon	10	Multiple spawn locations	Boss
+689	Lady Anacondra 3	The Wailing Caverns	43	22.142265	179.883270	-82.153664	X	Dungeon	10	Multiple spawn locations	Boss
+690	Lady Anacondra 4	The Wailing Caverns	43	-76.422531	105.639427	-90.470856	X	Dungeon	10	Multiple spawn locations	Boss
+691	Mutanus the Devourer	The Wailing Caverns	43	125.009178	248.373184	-97.021774	X	Dungeon	10		Boss (Must Summon)
+692	Disciple of Naralex	The Wailing Caverns	43	-137.469772	126.633400	-78.214256	X	Dungeon	10		Door / Passage / Other Point of Interest
+693	Exit	Razorfen Downs	129	2592.550049	1107.500000	51.290001	X	Dungeon	25		Exit
+694	Tuten'kash	Razorfen Downs	129	2545.212891	848.161255	51.453312	X	Dungeon	25	click the Gong	Boss (Must Summon)
+695	Belnistrasz	Razorfen Downs	129	2612.562500	730.774414	54.278500	X	Dungeon	25		Quest
+696	Plaguemaw the Rotting	Razorfen Downs	129	2574.105713	954.252136	52.428795	X	Dungeon	25		Boss (Must Summon)
+697	Mordresh Fire Eye	Razorfen Downs	129	2453.106445	702.360596	54.348759	X	Dungeon	25		Boss
+699	Glutton	Razorfen Downs	129	2396.701172	1045.898926	24.244423	X	Dungeon	25		Boss (Roams Around)
+700	Amnennar the Coldbringer	Razorfen Downs	129	2380.487061	952.248962	55.352318	X	Dungeon	25		Boss
+701	Exit	Razorfen Kraul	47	1943.000000	1544.630005	81.996986	X	Dungeon	17		Exit
+702	Aggem Thorncurse	Razorfen Kraul	47	2102.115479	1446.473389	74.002419	X	Dungeon	17		Boss
+703	Death Speaker Jargba	Razorfen Kraul	47	2162.864014	1435.166016	73.501213	X	Dungeon	17		Boss
+704	Overlord Ramtusk	Razorfen Kraul	47	2195.285400	1656.036743	86.431870	X	Dungeon	17		Boss
+705	Roogug	Razorfen Kraul	47	2144.284912	1594.112183	81.401329	X	Dungeon	17		Boss
+706	Earthcaller Halmgar	Razorfen Kraul	47	2128.243164	1675.141479	82.528801	X	Dungeon	17		Rare
+707	Agathelos the Raging	Razorfen Kraul	47	2032.386719	2020.168823	59.755505	X	Dungeon	17		Boss
+708	Charlga Razorflank	Razorfen Kraul	47	2201.948975	1888.861938	71.936981	X	Dungeon	17		Boss
+709	Willix & Heralath	Razorfen Kraul	47	2192.275879	1783.560059	65.380318	X	Dungeon	17		Quest
+710	Exit	Onyxia's Lair	249	29.160700	-71.337196	-8.180320	X	Raid	80		Exit
+711	Onyxia	Onyxia's Lair	249	-74.813499	-232.641937	-83.689857	X	Raid	80		Boss
+712	Exit	Ruins of Ahn'Qiraj	509	-8432.184570	1513.505493	31.907400	X	Raid	60		Exit
+713	Kurinnaxx	Ruins of Ahn'Qiraj	509	-8828.916016	1583.404053	22.452396	X	Raid	60		Boss
+714	General Rajaxx	Ruins of Ahn'Qiraj	509	-9137.803711	1648.768555	25.897423	X	Raid	60		Boss
+715	Buru the Gorger	Ruins of Ahn'Qiraj	509	-9236.864258	1277.400757	-62.448215	X	Raid	60		Boss
+716	Moam	Ruins of Ahn'Qiraj	509	-8907.066406	2226.182373	21.382614	X	Raid	60		Boss
+717	Ossirian the Unscarred	Ruins of Ahn'Qiraj	509	-9485.992188	2086.556885	106.140297	X	Raid	60		Boss
+718	Ayamiss the Hunter	Ruins of Ahn'Qiraj	509	-9743.406250	1480.734497	25.000757	X	Raid	60		Boss
+719	Exit	Ahn'Qiraj	531	-8230.049805	2012.334595	129.207809	X	Raid	60		Exit
+720	The Prophet Skeram	Ahn'Qiraj	531	-8322.987305	2044.969238	133.078369	X	Raid	60		Boss
+721	Quest Room	Ahn'Qiraj	531	-8496.370117	1938.172974	135.727982	X	Raid	60		Quest
+722	The Bug Family	Ahn'Qiraj	531	-8619.939453	2153.489014	-2.774507	X	Raid	60	Vem, Lord kri & Princess Yauj	Boss
+723	Battleguard Sartura	Ahn'Qiraj	531	-8274.482422	1729.039063	-17.177242	X	Raid	60		Boss (Roams Around)
+724	Fankriss he Unyielding	Ahn'Qiraj	531	-8139.488770	1147.599121	-89.475418	X	Raid	60		Boss
+725	Viscidus	Ahn'Qiraj	531	-8014.890137	979.841370	-40.818695	X	Raid	60	Need frost damage	Boss
+726	Princess Huhuran	Ahn'Qiraj	531	-8543.199219	1773.395630	-90.628654	X	Raid	60		Boss (Roams Around)
+727	Twin Emperors	Ahn'Qiraj	531	-8963.943359	1300.655396	-109.825233	X	Raid	60		Boss
+728	Ouro	Ahn'Qiraj	531	-9190.975586	2035.839844	-60.865681	X	Raid	60		Boss (Roams Around)
+729	Eye of C'Thun & C'Thun	Ahn'Qiraj	531	-8640.406250	1974.338745	100.498428	X	Raid	60	C'Thun after u kill Eye of C'Thun	Boss
+730	Quest Room 2	Ahn'Qiraj	531	-8656.518555	2026.807495	108.577339	X	Raid	60		Quest
+731	Exit	Hyjal Summit	534	4255.834961	-4231.035645	867.939941	X	Raid	70		Exit
+732	Lady Jaina Proudmoore	Hyjal Summit	534	5078.605957	-1789.112183	1320.745117	X	Raid	70	Alliance Base	Door / Passage / Other Point of Interest
+734	Tyrande Whisperwind	Hyjal Summit	534	5190.274902	-3381.137207	1639.038208	X	Raid	70	Night Elf Village	Door / Passage / Other Point of Interest
+735	Thrall	Hyjal Summit	534	5454.119141	-2722.637695	1485.295288	X	Raid	70	Horde Encampment	Door / Passage / Other Point of Interest
+736	Archimonde	Hyjal Summit	534	5499.319336	-3470.739258	1565.364258	X	Raid	70		Boss (Must Summon)
+737	Vendors	Hyjal Summit	534	4207.226074	-4173.283691	870.134033	X	Raid	70		Vendor/Repair
+738	Exit	Hellfire Ramparts	543	-1355.329712	1642.425293	68.322205	X	Dungeon	55		Exit
+739	Watchkeeper Gargolmar	Hellfire Ramparts	543	-1174.650024	1541.379517	68.404755	X	Dungeon	55		Boss (Roams Around)
+740	Omor the Unscarred	Hellfire Ramparts	543	-1086.077515	1698.571899	91.182076	X	Dungeon	55		Boss
+741	Vazruden	Hellfire Ramparts	543	-1419.038574	1708.088989	81.222542	X	Dungeon	55		Boss
+742	Exit	The Blood Furnace	542	-3.996700	14.636300	-44.800900	X	Dungeon	55		Exit
+743	The Maker	The Blood Furnace	542	296.716125	119.281631	9.604728	X	Dungeon	55		Boss
+744	Broggok	The Blood Furnace	542	471.734772	46.711636	9.617828	X	Dungeon	55		Boss (Must Summon)
+745	Keli'dan the Breaker	The Blood Furnace	542	378.454224	-96.864487	-25.097965	X	Dungeon	55		Boss
+746	Hellfire - The Shattered Halls Entrance	Hellfire Peninsula	530	-309.969238	3082.540527	-3.735567	X	Dungeon	55		Door / Passage / Other Point of Interest
+747	Exit	The Shattered Halls	540	-40.871601	-19.753799	-13.806500	X	Dungeon	55		Exit
+748	Grand Warlock Nethekurse	The Shattered Halls	540	196.320572	249.533173	-13.168057	X	Dungeon	55		Boss
+749	Warbringer O'mrogg	The Shattered Halls	540	333.850983	55.633583	0.085125	X	Dungeon	55		Boss
+750	Warchief Kargath Bladefist	The Shattered Halls	540	198.318558	-82.272430	3.795617	X	Dungeon	55		Boss
+751	Exit	Magisters' Terrace	585	7.090000	-0.450000	-2.800154	X	Dungeon	65		Exit
+752	Selin Fireheart	Magisters' Terrace	585	275.408936	-6.087125	1.800764	X	Dungeon	65		Boss
+753	Vexallus	Magisters' Terrace	585	245.407074	-235.597610	-6.382840	X	Dungeon	65		Boss
+754	Scrying Orb	Magisters' Terrace	585	223.781570	-275.969910	-8.038923	X	Dungeon	65		Quest
+755	Priestess Delrissa	Magisters' Terrace	585	126.493469	59.100285	-22.379650	X	Dungeon	65		Boss
+756	Kael'thas Sunstrider	Magisters' Terrace	585	137.479492	204.016312	-12.212339	X	Dungeon	65		Boss
+757	Tyrith	Magisters' Terrace	585	245.519501	-97.275116	-6.016216	X	Dungeon	65		Quest
+758	Tempest Keep - The Arcatraz Entrance	Netherstorm	530	3310.975342	1333.851929	505.558777	X	Dungeon	68		Door / Passage / Other Point of Interest
+759	Exit	The Arcatraz	552	-1.231650	0.014346	-0.204380	X	Dungeon	68		Exit
+760	Zereketh the Unbound	The Arcatraz	552	291.880768	-110.230766	-10.123217	X	Dungeon	68		Boss
+761	Arcane Container	The Arcatraz	552	323.090485	-22.644617	22.441425	X	Dungeon	68		Quest
+762	Wrath-Scryer Soccothrates	The Arcatraz	552	115.616852	204.094696	22.441153	X	Dungeon	68		Boss
+763	Dalliah the Doomsayer	The Arcatraz	552	116.178650	92.223801	22.441153	X	Dungeon	68		Boss
+764	Harbinger Skyriss	The Arcatraz	552	477.903748	-186.614105	42.881252	X	Dungeon	68		Boss (Must Summon)
+765	Udalo	The Arcatraz	552	469.955505	10.550618	49.151314	X	Dungeon	68		Quest
+766	Exit	The Botanica	553	40.076145	-28.649471	-1.118746	X	Dungeon	68		Exit
+767	Commander Sarannis	The Botanica	553	121.257271	332.622467	-4.845359	X	Dungeon	68		Boss
+768	High Botanist Freywinn	The Botanica	553	108.735138	455.674377	-4.742805	X	Dungeon	68		Boss
+769	Thorngrin the Tender	The Botanica	553	3.496297	618.740356	-12.684485	X	Dungeon	68		Boss
+770	Laj	The Botanica	553	-185.451859	435.302124	-16.176094	X	Dungeon	68		Boss
+771	Warp Splinter	The Botanica	553	92.850967	383.776611	-28.556620	X	Dungeon	68		Boss
+772	Exit	The Mechanar	554	-23.794819	0.605937	-1.812396	X	Dungeon	68		Exit
+773	Gatewatcher Iron-Hand	The Mechanar	554	143.428543	-62.677769	8.594282	X	Dungeon	68		Boss
+774	Gatewatcher Gyro-Kill	The Mechanar	554	104.234795	19.428902	14.923416	X	Dungeon	68		Boss
+775	Cache of the Legion	The Mechanar	554	222.000626	78.528488	-0.006495	X	Dungeon	68		Door / Passage / Other Point of Interest
+776	Mechano-Lord Capacitus	The Mechanar	554	233.177582	19.915369	-0.002256	X	Dungeon	68		Boss
+777	Nethermancer Seperhrea	The Mechanar	554	280.790802	50.358074	25.386160	X	Dungeon	68		Boss
+778	Pathaleon the Calculator	The Mechanar	554	153.824478	124.266914	26.238974	X	Dungeon	68		Boss (Must Summon)
+779	Exit	Auchenai Crypts	558	-21.897499	0.160000	-0.120600	X	Dungeon	55		Exit
+780	Shirrak the Dead Watcher	Auchenai Crypts	558	-58.954914	-148.078812	25.824703	X	Dungeon	55		Boss
+781	Exarch Maladaar	Auchenai Crypts	558	91.174568	-383.240723	26.591232	X	Dungeon	55		Boss
+782	Exit	Mana-Tombs	557	0.019100	0.947800	-0.954300	X	Dungeon	55		Exit
+783	Pandemonius	Mana-Tombs	557	-48.979111	-135.483765	-0.954331	X	Dungeon	55		Boss
+784	Ambassador Pax'ivi	Mana-Tombs	557	10.792128	-223.034851	-0.951846	X	Dungeon	55	Heroic Only	Quest
+785	Tavarok	Mana-Tombs	557	-306.081726	-256.092712	-1.310033	X	Dungeon	55		Boss
+786	Ethereal Transporter Control Panel	Mana-Tombs	557	-350.676056	-59.526302	-0.973104	X	Dungeon	55		Quest
+787	Nexus-Prince Shaffar	Mana-Tombs	557	-161.052933	7.958444	16.794424	X	Dungeon	55		Boss
+788	Exit	Sethekk Halls	556	-4.681100	-0.093080	0.006200	X	Dungeon	55		Exit
+789	Darkweaver Syth	Sethekk Halls	556	-144.880676	204.739426	0.010780	X	Dungeon	55	+ Lakka - Quest	Boss
+790	Anzu	Sethekk Halls	556	-129.763672	307.696777	26.650661	X	Dungeon	55	Heroic Only	Boss (Must Summon)
+791	Talon King Ikiss	Sethekk Halls	556	79.137444	286.132690	26.629333	X	Dungeon	55		Boss
+792	Exit	Shadow Labyrinth	555	0.488033	-0.215935	-1.127880	X	Dungeon	65		Exit
+793	Spy To'gun	Shadow Labyrinth	555	-62.397461	42.796356	0.170989	X	Dungeon	65		Quest
+794	Ambassador Hellmaw	Shadow Labyrinth	555	-153.971252	35.213390	7.395216	X	Dungeon	65		Boss
+795	Blackheart the Inciter	Shadow Labyrinth	555	-360.919617	-34.608532	12.688871	X	Dungeon	65		Boss
+796	Grandmaster Vorpil	Shadow Labyrinth	555	-215.095352	-263.527039	17.086386	X	Dungeon	65		Boss
+797	Murmur	Shadow Labyrinth	555	-196.738510	-487.754364	17.077686	X	Dungeon	65		Boss
+798	Arcane Container	Shadow Labyrinth	555	-107.221924	-509.826477	21.475779	X	Dungeon	65	First Fragment Guardian	Quest
+799	Exit	The Slave Pens	547	120.100998	-131.957001	-0.801557	X	Dungeon	55		Exit
+800	Mennu the Betrayer	The Slave Pens	547	89.968292	-384.417603	15.447707	X	Dungeon	55		Boss (Roams Around)
+801	Weeder Greenthumb	The Slave Pens	547	-302.297089	-380.039703	29.826603	X	Dungeon	55		Quest
+802	Rokmar the Crackler	The Slave Pens	547	-7.482893	-457.567291	3.055736	X	Dungeon	55		Boss (Roams Around)
+803	Skar'this the Heretic	The Slave Pens	547	-302.008392	-456.586334	3.035708	X	Dungeon	55	Heroic Only	Quest
+804	Naturalist Bite	The Slave Pens	547	-193.561554	-804.616516	43.799362	X	Dungeon	55		Quest
+805	Quagmirran	The Slave Pens	547	-245.937729	-707.140381	36.845379	X	Dungeon	55		Boss
+806	Exit	The Steamvault	545	-11.546499	6.754200	-4.280059	X	Dungeon	55		Exit
+807	Hydromancer Thespia	The Steamvault	545	53.642406	-299.240204	-8.598887	X	Dungeon	55		Boss
+808	Arcane Container	The Steamvault	545	16.336973	-305.660461	-66.170479	X	Dungeon	55	Second Fragment Guardian	Quest
+809	Warlord Kalithresh	The Steamvault	545	-106.025154	-579.371338	8.188229	X	Dungeon	55		Boss
+810	Mekgineer Steamrigger	The Steamvault	545	-363.190094	-158.856903	-7.755544	X	Dungeon	55		Boss
+811	Exit	The Underbog	546	10.306180	-16.257730	-2.754773	X	Dungeon	55		Exit
+812	Hungarfen	The Underbog	546	-93.184212	-419.416138	36.375168	X	Dungeon	55		Boss
+813	Ghaz'an	The Underbog	546	209.977432	-479.880310	54.401901	X	Dungeon	55		Boss (Roams Around)
+814	Earthbinder Rayge	The Underbog	546	296.282990	-363.944427	49.951191	X	Dungeon	55	Stealthed	Quest
+815	Swamplord Musel'ek	The Underbog	546	248.688950	-116.423317	28.433779	X	Dungeon	55		Boss
+816	The Black Stalker	The Underbog	546	199.907440	33.300831	27.562513	X	Dungeon	55		Boss
+817	Exit	Gruul's Lair	565	63.034534	38.250790	-4.428934	X	Raid	70		Exit
+818	High King Maulgar	Gruul's Lair	565	101.763374	209.647797	-10.482018	X	Raid	70		Boss
+819	Gruul the Dragonkiller	Gruul's Lair	565	231.659622	410.075531	-3.293932	X	Raid	70		Boss
+820	Exit	Zul'Aman	568	120.699997	1776.000000	43.455009	X	Raid	70		Exit
+821	Forest Frog's	Zul'Aman	568	134.686127	1370.309570	-22.422169	X	Raid	70		Quest
+822	Nalorakk	Zul'Aman	568	-123.552399	1341.105225	45.254116	X	Raid	70	Bear Avatar	Boss
+823	Jan'alai	Zul'Aman	568	-46.607407	1136.628906	18.709784	X	Raid	70	Dragonhawk Avatar	Boss
+824	Hex Lord Malacrass	Zul'Aman	568	119.249733	1008.220398	32.621719	X	Raid	70		Boss
+825	Zul'jin	Zul'Aman	568	116.701958	731.736633	45.111473	X	Raid	70		Boss
+826	Halazzi	Zul'Aman	568	318.801483	1118.389526	9.198468	X	Raid	70	Lynx Avatar	Boss
+827	Zungam	Zul'Aman	568	251.501556	996.315735	10.910368	X	Raid	70		Vendor/Repair
+828	Akil'zon	Zul'Aman	568	343.226166	1425.316040	74.214111	X	Raid	70	Eagle Avatar	Boss
+829	Exit	Magtheridon's Lair	544	187.843002	35.923199	67.925163	X	Raid	70		Exit
+830	Magtheridon	Magtheridon's Lair	544	-90.793709	-0.454038	-0.405467	X	Raid	70		Boss
+831	Exit	Sunwell Plateau	580	1790.650024	925.669983	15.150000	X	Raid	70		Exit
+832	Kalecgos	Sunwell Plateau	580	1731.558472	944.897644	53.075806	X	Raid	70		Boss
+833	Brutallus & Felmyst	Sunwell Plateau	580	1507.945313	645.217712	25.641590	X	Raid	70		Boss
+834	Eredar Twins	Sunwell Plateau	580	1841.352295	654.254883	34.208157	X	Raid	70	Grand Warlock Alythess and Lady Sacrolash	Boss
+835	M'uru & Entropius	Sunwell Plateau	580	1845.745605	642.374146	71.253510	X	Raid	70		Boss
+836	Kil'jaeden	Sunwell Plateau	580	1742.162598	608.981689	28.050304	X	Raid	70		Boss
+837	Exit	The Eye	550	-10.802100	-1.150450	-2.428339	X	Raid	70		Exit
+838	Al'ar	The Eye	550	269.392059	40.803970	-2.388204	X	Raid	70		Boss (Roams Around)
+839	Void Reaver	The Eye	550	485.689148	441.307648	20.335268	X	Raid	70		Boss
+840	Kael'thas Sunstrider	The Eye	550	713.650391	-3.269859	46.778324	X	Raid	70		Boss
+841	High Astromancer Solarian	The Eye	550	494.912079	-304.030396	19.912542	X	Raid	70		Boss
+842	Doomwalker	Shadowmoon Valley	530	-3532.030518	276.933380	44.793747	X	Raid	70	World Boss	Boss (Roams Around)
+843	Exit	Black Temple	564	96.446198	1002.349976	-86.998405	X	Raid	70		Exit
+844	Spirit of Olum	Black Temple	564	202.218048	996.702759	-64.717865	X	Raid	70		Door / Passage / Other Point of Interest
+845	High Warlord Naj'entus	Black Temple	564	397.392151	720.036011	14.118968	X	Raid	70		Boss
+846	Supremus	Black Temple	564	649.398010	631.229980	83.876045	X	Raid	70		Boss
+847	Shade of Akama	Black Temple	564	553.129333	394.097900	112.783745	X	Raid	70		Boss (Must Summon)
+848	Ashtongue Vendors	Black Temple	564	701.707275	199.609924	125.006958	X	Raid	70		Vendor/Repair
+849	Teron Gorefiend	Black Temple	564	569.461060	387.268982	193.199249	X	Raid	70		Boss
+850	Reliquary of Souls	Black Temple	564	540.019348	152.956436	94.925400	X	Raid	70	3 faced boss	Boss
+851	Gurtogg Bloodboil	Black Temple	564	789.414734	293.076172	63.772091	X	Raid	70		Boss
+852	Mother Shahraz	Black Temple	564	912.954163	167.060120	192.843155	X	Raid	70		Boss
+853	The Illidari Council	Black Temple	564	642.552429	277.464905	271.681519	X	Raid	70	4 boss	Boss
+854	Illidan Stormrage	Black Temple	564	752.721008	241.065018	353.164429	X	Raid	70		Boss
+855	Exit	Serpentshrine Cavern	548	10.645600	6.561302	821.749878	X	Raid	70		Exit
+856	Hydross the Unstable	Serpentshrine Cavern	548	-223.027771	-299.901245	-3.681791	X	Raid	70		Boss
+857	The Lurker Below	Serpentshrine Cavern	548	56.642551	-431.374146	-18.211777	X	Raid	70	"Fish in the ""Strange Pool"""	Boss (Must Summon)
+858	Leotheras the Blind	Serpentshrine Cavern	548	403.528900	-415.786896	31.172981	X	Raid	70		Boss
+859	Fathom-Lord Karathress	Serpentshrine Cavern	548	457.251190	-580.320496	-7.229660	X	Raid	70		Boss
+860	Morogrim Tidewalker	Serpentshrine Cavern	548	356.787354	-679.267334	-13.158121	X	Raid	70		Boss
+861	Lady Vashj	Serpentshrine Cavern	548	19.793018	-869.599548	41.097172	X	Raid	70		Boss
+863	Exit	The Nexus	576	145.869995	-10.554000	-16.636038	X	Dungeon	66		Exit
+864	Berinand's Research	The Nexus	576	414.055389	187.056625	-35.019573	X	Dungeon	66	Lot of mobs around	Quest
+865	Grand Magus Telestra	The Nexus	576	506.636230	116.429512	-16.124540	X	Dungeon	66		Boss
+866	Anomalus	The Nexus	576	623.010742	-309.585907	-9.507278	X	Dungeon	66		Boss
+867	Ormorok the Tree-Shaper	The Nexus	576	281.176361	-191.515030	-6.874805	X	Dungeon	66		Boss
+868	Keristrasza	The Nexus	576	259.446838	-6.392045	-16.635696	X	Dungeon	66		Boss (Must Summon)
+869	Exit	The Oculus	578	1055.930054	986.849976	361.070007	X	Dungeon	75		Exit
+870	Drakos the Interrogator	The Oculus	578	982.567566	1056.297363	359.967010	X	Dungeon	75		Boss
+871	Varos Cloudstrider	The Oculus	578	1258.591675	1054.014160	439.431824	X	Dungeon	75		Boss (Must Summon)
+872	Varos 1	The Oculus	578	1015.518433	918.046326	439.398651	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+873	Varos 2	The Oculus	578	1017.864380	1163.956177	438.941254	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+874	Varos 3	The Oculus	578	1050.143799	1082.667725	432.515289	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+875	Varos 4	The Oculus	578	1149.109253	1095.255981	432.515289	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+876	Varos 5	The Oculus	578	1154.692993	1012.762146	432.515320	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+877	Varos 6	The Oculus	578	1052.037476	1014.132385	432.515442	X	Dungeon	75	Centrifuge Construct - Kill Them to summon Varos	Door / Passage / Other Point of Interest
+878	Exit	Ahn'kahet: The Old Kingdom	619	337.013092	-1106.952026	66.636841	X	Dungeon	68		Exit
+879	Elder Nadox	Ahn'kahet: The Old Kingdom	619	638.727661	-933.013550	25.614552	X	Dungeon	68		Boss
+880	Ancient Nerubian Device 1	Ahn'kahet: The Old Kingdom	619	689.549561	-785.964294	17.978321	X	Dungeon	68	Destroy to summon Prince	Door / Passage / Other Point of Interest
+881	Ancient Nerubian Device 2	Ahn'kahet: The Old Kingdom	619	653.017090	-720.571106	17.978983	X	Dungeon	68	Destroy to Summon Prince	Door / Passage / Other Point of Interest
+882	Prince Taldaram	Ahn'kahet: The Old Kingdom	619	503.035400	-850.103149	10.410699	X	Dungeon	68		Boss (Must Summon)
+883	Amanitar	Ahn'kahet: The Old Kingdom	619	349.753052	-876.703552	-76.495972	X	Dungeon	80	Heroic Only	Boss
+884	Jedoga Shadowseeker	Ahn'kahet: The Old Kingdom	619	372.465668	-740.095520	-15.987619	X	Dungeon	68		Boss
+885	Herald Volazj	Ahn'kahet: The Old Kingdom	619	571.169067	-466.881470	28.949553	X	Dungeon	68		Boss
+886	Exit	Azjol-Nerub	601	413.313995	795.968018	831.351013	X	Dungeon	67		Exit
+887	Krik'thir the Gatewatcher	Azjol-Nerub	601	525.305542	703.465942	777.205261	X	Dungeon	67		Boss
+888	Hadronox	Azjol-Nerub	601	559.890381	567.115295	680.396912	X	Dungeon	67		Boss
+889	Anub'arak	Azjol-Nerub	601	549.363464	217.497635	217.791702	X	Dungeon	67		Boss
+890	Exit	Utgarde Keep	574	157.368958	-85.424873	12.551000	X	Dungeon	65		Exit
+891	Prince Keleseth	Utgarde Keep	574	154.916458	219.459259	42.866604	X	Dungeon	65		Boss
+892	Dalronn & Skarvald	Utgarde Keep	574	139.356476	-30.310890	128.176987	X	Dungeon	65		Boss
+893	Ingvar the Plunderer	Utgarde Keep	574	224.135101	-294.260406	180.489761	X	Dungeon	65		Boss
+894	Exit	Utgarde Pinnacle	575	579.414246	-328.040710	110.140686	X	Dungeon	75		Exit
+895	Slava Sorrowgrave	Utgarde Pinnacle	575	273.179779	-355.397125	87.051346	X	Dungeon	75		Boss
+896	Gortok Palehoof	Utgarde Pinnacle	575	237.128464	-460.247253	105.477715	X	Dungeon	75	"Click ""Stasis Generator"""	Boss (Must Summon)
+897	Skadi the Ruthless	Utgarde Pinnacle	575	474.118408	-506.918762	104.723564	X	Dungeon	75	Collect 3 harpoons from mobs and shoot at boss with harpoon launcher	Boss (Must Summon)
+898	King Ymiron	Utgarde Pinnacle	575	390.509796	-352.770203	103.893288	X	Dungeon	75		Boss
+899	Exit	The Forge of Souls	632	4918.910645	2182.559814	638.733643	X	Dungeon	75		Exit
+900	Bronjahm	The Forge of Souls	632	5279.847656	2493.598633	686.067810	X	Dungeon	75		Boss
+901	Devourer of Souls	The Forge of Souls	632	5650.612793	2467.045654	708.695862	X	Dungeon	75		Boss
+902	Exit	Pit of Saron	658	432.567993	212.343994	528.708618	X	Dungeon	75		Exit
+903	Forgemaster Garfrost	Pit of Saron	658	678.421570	-162.529922	527.125549	X	Dungeon	75		Boss
+904	Krick and Ick	Pit of Saron	658	840.893127	152.659836	510.452820	X	Dungeon	75		Boss
+905	Scourgelord Tyrannus	Pit of Saron	658	1052.196045	120.464355	628.156189	X	Dungeon	75	you must kill all mobs from previous boss road to here	Boss (Must Summon)
+906	Exit	Halls of Reflection	668	5239.009766	1932.640015	707.695007	X	Dungeon	75		Exit
+907	Falric and Marwyn	Halls of Reflection	668	5302.230469	2000.685913	709.341003	X	Dungeon	75	Kill waves to summon them	Boss (Must Summon)
+908	Escape Lich King	Halls of Reflection	668	5544.266602	2229.755859	733.011536	X	Dungeon	75		Boss
+909	Exit	Halls of Lightning	602	1331.469971	259.618988	53.397999	X	Dungeon	75		Exit
+910	General Bjarngrim	Halls of Lightning	602	1297.325928	106.765221	36.889637	X	Dungeon	75		Boss (Roams Around)
+911	Volkhan	Halls of Lightning	602	1334.278809	-80.051956	56.717503	X	Dungeon	75		Boss
+912	Ionar	Halls of Lightning	602	1048.817383	-257.874878	61.227928	X	Dungeon	75		Boss
+913	Loken	Halls of Lightning	602	1181.322632	-0.448956	60.700226	X	Dungeon	75		Boss
+914	Exit	Halls of Stone	599	1153.239990	806.164001	195.936996	X	Dungeon	72		Exit
+915	Krystallus	Halls of Stone	599	988.621460	740.863281	211.013489	X	Dungeon	72		Boss
+916	Brann Bronzebeard	Halls of Stone	599	1082.577515	471.586426	207.724670	X	Dungeon	72		Quest
+917	Tribunal Chest	Halls of Stone	599	932.344666	366.083466	205.813950	X	Dungeon	72		Boss
+918	Sjonnir The Ironshaper	Halls of Stone	599	1259.711548	664.062866	189.607971	X	Dungeon	72		Boss
+919	Maiden of Grief	Halls of Stone	599	842.284729	702.049133	190.312912	X	Dungeon	72		Boss
+920	Exit	Drak'Tharon Keep	600	-517.343018	-487.976013	11.009759	X	Dungeon	69		Exit
+921	Trollgore	Drak'Tharon Keep	600	-258.843384	-633.366150	26.522701	X	Dungeon	69		Boss
+922	Novos the Summoner	Drak'Tharon Keep	600	-349.706879	-748.007874	28.586418	X	Dungeon	69		Boss
+923	King Dred	Drak'Tharon Keep	600	-559.292053	-689.933716	30.537746	X	Dungeon	69		Boss (Roams Around)
+924	The Prophet Tharon'ja	Drak'Tharon Keep	600	-263.656982	-692.099976	131.177048	X	Dungeon	69		Boss
+925	Drakuru's Brazier	Drak'Tharon Keep	600	-236.014648	-618.248047	116.475967	X	Dungeon	69		Quest
+926	Exit	Gundrak	604	1882.319946	631.026978	176.695999	X	Dungeon	71		Exit
+927	Slad'ran	Gundrak	604	1793.159912	685.047729	129.217682	X	Dungeon	71		Boss
+928	Drakkari Colossus	Gundrak	604	1695.810791	747.506165	142.822311	X	Dungeon	71		Boss
+929	Moorabi	Gundrak	604	1756.378662	799.466919	129.216690	X	Dungeon	71		Boss
+930	Gal'darah	Gundrak	604	1916.148804	701.287170	136.013824	X	Dungeon	71		Boss
+931	Eck	Gundrak	604	1643.656128	960.672668	115.902512	X	Dungeon	71	Heroic Only	Boss (Must Summon)
+932	Exit	The Obsidian Sanctum	615	3228.580078	385.859985	65.548653	X	Raid	80		Exit
+933	Shadron	The Obsidian Sanctum	615	3398.468506	524.796326	98.691635	X	Raid	80		Boss
+934	Tenebron	The Obsidian Sanctum	615	3246.490723	700.965210	92.539261	X	Raid	80		Boss
+935	Vesperon	The Obsidian Sanctum	615	3109.794189	510.874969	89.281685	X	Raid	80		Boss
+936	Sartharion	The Obsidian Sanctum	615	3240.614258	503.000092	59.021988	X	Raid	80		Boss
+937	Exit	The Ruby Sanctum	724	3273.468750	533.583252	87.665611	X	Raid	80		Exit
+938	1 Baltharus the Warborn	The Ruby Sanctum	724	3156.634521	418.353455	86.121582	X	Raid	80	kill to summon boss	Door / Passage / Other Point of Interest
+939	2 Saviana Ragefire	The Ruby Sanctum	724	3156.054199	601.744812	75.718590	X	Raid	80	kill to summon boss	Door / Passage / Other Point of Interest
+940	3 General Zarithrian	The Ruby Sanctum	724	3007.116211	524.932861	89.394409	X	Raid	80	kill to summon boss	Door / Passage / Other Point of Interest
+941	4 Halion	The Ruby Sanctum	724	3198.429932	525.476013	73.486313	X	Raid	80		Boss (Must Summon)
+942	Exit	Naxxramas	533	2988.302002	-3434.288818	295.965790	X	Raid	80		Exit
+943	Noth the Plaguebringer	Naxxramas - The Plague Quarter	533	2714.853027	-3464.880859	262.035919	X	Raid	80		Boss
+944	Loatheb	Naxxramas - The Plague Quarter	533	2893.509033	-3957.095459	273.569305	X	Raid	80		Boss
+945	Heigan the Unclean	Naxxramas - The Plague Quarter	533	2747.160645	-3684.762207	273.664368	X	Raid	80		Boss
+946	Anub'Rekhan	Naxxramas - The Arachnid Quarter	533	3257.819336	-3444.517334	287.076019	X	Raid	80		Boss
+947	Grand Widow Faerlina	Naxxramas - The Arachnid Quarter	533	3347.611084	-3703.433594	259.075500	X	Raid	80		Boss
+948	Maexxna	Naxxramas - The Arachnid Quarter	533	3448.220459	-3893.020264	303.781860	X	Raid	80		Boss
+949	Instructor Razuvious	Naxxramas - The Military Quarter	533	2783.295654	-3128.372559	267.684875	X	Raid	80		Boss
+950	Gothik the Harvester	Naxxramas - The Military Quarter	533	2715.798340	-3412.698730	267.687531	X	Raid	80		Boss
+951	The Four Horsemen	Naxxramas - The Military Quarter	533	2586.056885	-2961.094971	241.322662	X	Raid	80		Boss
+952	Patchwerk	Naxxramas - The Construct Quarter	533	3202.640381	-3193.628174	294.062744	X	Raid	80		Boss (Roams Around)
+953	Grobbulus	Naxxramas - The Construct Quarter	533	3274.718018	-3293.766357	292.595154	X	Raid	80		Boss (Roams Around)
+954	Gluth	Naxxramas - The Construct Quarter	533	3331.947998	-3208.010498	297.848785	X	Raid	80		Boss
+955	Thaddius	Naxxramas - The Construct Quarter	533	3439.019287	-2999.726563	297.100555	X	Raid	80		Boss (Must Summon)
+956	Sapphiron	Naxxramas	533	3504.189697	-5322.107422	139.914246	X	Raid	80		Boss
+957	Kel'Thuzad	Naxxramas	533	3677.285645	-5112.213379	142.030472	X	Raid	80		Boss
+958	Exit	Trial of the Crusader	649	563.627930	82.557419	395.200012	X	Raid	80		Exit
+959	Anub'arak	Trial of the Crusader	649	703.955566	100.632278	142.119888	X	Raid	80	you must finish trial before u can fight or even see this boss	Boss (Must Summon)
+960	The Lich King	Icecrown Citadel	631	524.976563	-2108.677979	840.857056	X	Raid	80		Boss
+961	Exit	Icecrown Citadel	631	72.363312	2213.027588	30.115667	X	Raid	80		Exit
+962	Exit	Vault of Archavon	624	-505.959991	-103.352997	156.999985	X	Raid	80		Exit
+963	Emalon the Storm Watcher	Vault of Archavon	624	-241.398438	-254.415024	94.090263	X	Raid	80		Boss
+964	Koralon the Flame Watcher	Vault of Archavon	624	-177.885422	79.510727	91.746307	X	Raid	80		Boss
+965	Toravon the Ice Watcher	Vault of Archavon	624	-65.502670	-254.405350	94.180260	X	Raid	80		Boss
+966	Archavon the Stone Watcher	Vault of Archavon	624	105.496719	-126.181198	94.915909	X	Raid	80		Boss
+967	Exit	Ulduar	603	-914.041016	-148.979996	463.136993	X	Raid	80		Exit
+968	Teleporter - Expedition Base Camp	Ulduar	603	-710.349365	-94.225342	429.858246	X	Raid	80		Door / Passage / Other Point of Interest
+969	Tower of Life	Ulduar	603	-224.655106	-332.194519	369.465790	X	Raid	80		Door / Passage / Other Point of Interest
+970	Tower of Flames	Ulduar	603	-66.436470	40.888409	435.647186	X	Raid	80		Door / Passage / Other Point of Interest
+971	Tower of Storms	Ulduar	603	370.988708	345.365967	410.296326	X	Raid	80		Door / Passage / Other Point of Interest
+972	Tower of Frost	Ulduar	603	75.152039	-427.072388	410.818634	X	Raid	80		Door / Passage / Other Point of Interest
+973	Teleporter - Formation Grounds	Ulduar	603	132.281281	-38.617393	409.803864	X	Raid	80		Door / Passage / Other Point of Interest
+974	Flame Leviathan	Ulduar	603	244.993759	-78.229904	409.803864	X	Raid	80	Kill mobs in area to summon	Boss (Must Summon)
+975	Teleporter - The Colossal Forge	Ulduar	603	550.075439	-13.191751	409.803619	X	Raid	80		Door / Passage / Other Point of Interest
+976	Ignis the Furnace Master	Ulduar	603	548.791443	335.346954	360.802765	X	Raid	80		Boss
+977	Razorscale	Ulduar	603	595.783569	-115.221901	391.517120	X	Raid	80	kill waves and use harpoons to summon	Boss (Must Summon)
+978	XT-002 Deconstructor	Ulduar	603	772.009033	-18.182974	409.803680	X	Raid	80		Boss
+979	Teleporter - The Scrapyard	Ulduar	603	928.124756	-9.324393	418.594696	X	Raid	80		Door / Passage / Other Point of Interest
+980	Teleporter - The Antechamber	Ulduar	603	1496.338867	-26.973848	420.967010	X	Raid	80		Door / Passage / Other Point of Interest
+981	Algalon the Observer	Ulduar	603	1631.697998	-226.838547	418.322449	X	Raid	80		Boss
+982	The Assembly of Iron	Ulduar	603	1639.681519	131.387161	427.293427	X	Raid	80		Boss
+983	The Archivum Console	Ulduar	603	1438.026001	122.962379	423.641144	X	Raid	80		Door / Passage / Other Point of Interest
+984	Kologarn	Ulduar	603	1757.039185	-25.682735	448.805023	X	Raid	80		Boss
+985	Teleporter - The Shattered Walkway	Ulduar	603	1857.839111	-28.022882	448.809326	X	Raid	80		Door / Passage / Other Point of Interest
+986	Auriaya	Ulduar	603	1990.296997	-109.482620	418.725372	X	Raid	80		Boss (Roams Around)
+987	Hodir	Ulduar	603	2000.368042	-281.471191	432.686951	X	Raid	80		Boss
+988	Thorim	Ulduar	603	2152.906250	-323.591919	438.247528	X	Raid	80		Boss
+989	Teleporter - The Conservatory of Life	Ulduar	603	2089.009277	-21.255230	421.242676	X	Raid	80		Door / Passage / Other Point of Interest
+990	Freya	Ulduar	603	2374.776611	-93.114807	428.391724	X	Raid	80		Boss (Roams Around)
+991	Tram to The Spark of Imagination	Ulduar	603	2279.132324	290.809418	419.286652	X	Raid	80		Door / Passage / Other Point of Interest
+992	Teleporter - The Spark of Imagination	Ulduar	603	2518.815918	2566.028076	412.299103	X	Raid	80		Door / Passage / Other Point of Interest
+993	Mimiron	Ulduar	603	2693.088623	2543.779053	364.313690	X	Raid	80		Boss
+994	General Vezax	Ulduar	603	1872.623413	182.522461	350.313599	X	Raid	80		Boss
+995	Teleporter - Yogg-Saron	Ulduar	603	1857.469116	-13.763375	334.165527	X	Raid	80		Door / Passage / Other Point of Interest
+996	Yogg-Saron	Ulduar	603	1909.337646	-44.347401	330.863861	X	Raid	80		Boss
+997	Landing Beach	Strand of the Ancients	607	1587.227295	-119.207603	8.966095	X	Battleground	71		Door / Passage / Other Point of Interest
+998	Gate of the Blue Sapphire	Strand of the Ancients	607	1438.241211	-209.182922	29.677574	X	Battleground	71		Door / Passage / Other Point of Interest
+999	Gate of the Green Emerald	Strand of the Ancients	607	1420.018311	99.141159	27.400734	X	Battleground	71		Door / Passage / Other Point of Interest
+1000	West Graveyard	Strand of the Ancients	607	1312.779541	13.366525	31.008776	X	Battleground	71		Door / Passage / Other Point of Interest
+1001	East Graveyard	Strand of the Ancients	607	1337.441772	-153.935715	30.901447	X	Battleground	71		Door / Passage / Other Point of Interest
+1002	Gate of the Red Sun	Strand of the Ancients	607	1237.153198	-207.269897	53.836105	X	Battleground	71		Door / Passage / Other Point of Interest
+1003	Gate of the Purple Amethyst	Strand of the Ancients	607	1223.133057	74.964043	51.402031	X	Battleground	71		Door / Passage / Other Point of Interest
+1004	South Graveyard	Strand of the Ancients	607	1221.223877	-68.627480	70.084244	X	Battleground	71		Door / Passage / Other Point of Interest
+1005	Gate of the Yellow Moon	Strand of the Ancients	607	1063.751099	-108.512283	80.731384	X	Battleground	71		Door / Passage / Other Point of Interest
+1006	Chamber of Ancient Relics Door	Strand of the Ancients	607	887.522400	-107.364418	109.835014	X	Battleground	71		Door / Passage / Other Point of Interest
+1007	Chamber of Ancient Relics	Strand of the Ancients	607	838.754028	-123.320213	112.437744	X	Battleground	71		Door / Passage / Other Point of Interest
+1008	Alliance Flag	Warsong Gulch	489	1540.476318	1482.410278	352.319214	X	Battleground	10		Door / Passage / Other Point of Interest
+1009	Horde Flag	Warsong Gulch	489	914.584839	1432.760010	345.910217	X	Battleground	10		Door / Passage / Other Point of Interest
+1010	Horde Graveyard	Warsong Gulch	489	1032.052856	1378.763184	340.962341	X	Battleground	10		Door / Passage / Other Point of Interest
+1011	Alliance Graveyard	Warsong Gulch	489	1442.856445	1566.616699	343.767700	X	Battleground	10		Door / Passage / Other Point of Interest
+1012	Alliance Base	Arathi Basin	529	1293.596313	1291.420166	-12.936112	X	Battleground	20		Door / Passage / Other Point of Interest
+1013	Stables	Arathi Basin	529	1167.975342	1201.578857	-56.411694	X	Battleground	20		Door / Passage / Other Point of Interest
+1014	Lumber Mill	Arathi Basin	529	856.102600	1150.477539	11.528967	X	Battleground	20		Door / Passage / Other Point of Interest
+1015	Blacksmith	Arathi Basin	529	973.463013	1053.031982	-44.569103	X	Battleground	20		Door / Passage / Other Point of Interest
+1016	Gold Mine	Arathi Basin	529	1145.549316	850.253540	-110.517197	X	Battleground	20		Door / Passage / Other Point of Interest
+1017	Farm	Arathi Basin	529	803.372681	872.253845	-55.925812	X	Battleground	20		Door / Passage / Other Point of Interest
+1018	Horde Base	Arathi Basin	529	703.395935	703.233704	-16.219967	X	Battleground	20		Door / Passage / Other Point of Interest
+1019	Graveyard Frostwolf Keep	Alterac Valley	30	-1411.770996	-330.799042	89.546555	X	Battleground	51		Door / Passage / Other Point of Interest
+1020	Hall of the Frostwolf	Alterac Valley	30	-1368.775024	-245.136765	99.369614	X	Battleground	51	Drek'Thar HORDE BOSS	Boss
+1021	Flag East Frostwolf Tower	Alterac Valley	30	-1296.717041	-264.690399	114.151337	X	Battleground	51		Door / Passage / Other Point of Interest
+1022	Graveyard Frostwolf	Alterac Valley	30	-1084.102417	-343.915619	55.224457	X	Battleground	51		Door / Passage / Other Point of Interest
+1023	Flag Tower Point	Alterac Valley	30	-767.920105	-366.231567	90.894890	X	Battleground	51		Door / Passage / Other Point of Interest
+1024	Graveyard Iceblood	Alterac Valley	30	-613.126465	-396.336731	60.858425	X	Battleground	51		Door / Passage / Other Point of Interest
+1025	Flag Iceblood Tower	Alterac Valley	30	-572.745300	-264.018555	75.008705	X	Battleground	51		Door / Passage / Other Point of Interest
+1026	Iceblood Garrison	Alterac Valley	30	-521.053406	-168.750137	57.955765	X	Battleground	51	Captain Galvangar HORDE BOSS	Boss
+1027	Graveyard Snowfall	Alterac Valley	30	-199.509109	-100.683174	79.561188	X	Battleground	51		Door / Passage / Other Point of Interest
+1028	Stonehearth Outpost	Alterac Valley	30	-20.314760	-290.164886	15.563612	X	Battleground	51	Captain Balinda Stonehearth ALLIANCE Boss	Boss
+1029	Flag Stonehearth Bunker	Alterac Valley	30	-148.501602	-443.377319	40.403351	X	Battleground	51		Door / Passage / Other Point of Interest
+1030	Graveyard Stonehearth	Alterac Valley	30	77.521782	-407.764191	47.581627	X	Battleground	51		Door / Passage / Other Point of Interest
+1031	Flag Icewing Bunker	Alterac Valley	30	204.965164	-358.461670	56.378700	X	Battleground	51		Door / Passage / Other Point of Interest
+1032	Graveyard Stormpike	Alterac Valley	30	670.006042	-292.185211	30.278955	X	Battleground	51		Door / Passage / Other Point of Interest
+1033	Flag Dun Baldar North	Alterac Valley	30	671.198547	-142.589966	63.651661	X	Battleground	51		Door / Passage / Other Point of Interest
+1034	Flag Dun Baldar South	Alterac Valley	30	555.583557	-78.322891	51.937828	X	Battleground	51		Door / Passage / Other Point of Interest
+1035	Graveyard Dun Baldar	Alterac Valley	30	634.374512	-30.488747	46.240871	X	Battleground	51		Door / Passage / Other Point of Interest
+1036	Hall of the Stormpike	Alterac Valley	30	694.527588	-16.210602	50.619797	X	Battleground	51	Vanndar Stormpike Alliance boss	Boss
+1037	Flag	Eye of the Storm	566	2172.678955	1568.963745	1160.015869	X	Battleground	61		Door / Passage / Other Point of Interest
+1038	Draenei Ruins	Eye of the Storm	566	2289.684570	1403.953491	1197.319824	X	Battleground	61		Door / Passage / Other Point of Interest
+1039	Mage Tower	Eye of the Storm	566	2285.395508	1727.837769	1188.795898	X	Battleground	61		Door / Passage / Other Point of Interest
+1040	Blood Elf Tower	Eye of the Storm	566	2048.511963	1397.881592	1194.261475	X	Battleground	61		Door / Passage / Other Point of Interest
+1041	Fel Reaver Ruins	Eye of the Storm	566	2046.697876	1733.133911	1189.476929	X	Battleground	61		Door / Passage / Other Point of Interest
+1042	Alliance Keep	Isle of Conquest	628	280.876160	-827.396423	51.468708	X	Battleground	71		Door / Passage / Other Point of Interest
+1043	Flag Docks	Isle of Conquest	628	726.165100	-357.575226	17.800682	X	Battleground	71		Door / Passage / Other Point of Interest
+1044	Flag Refinery	Isle of Conquest	628	1272.746094	-399.394257	37.625439	X	Battleground	71		Door / Passage / Other Point of Interest
+1045	Horde Keep	Isle of Conquest	628	1288.154297	-774.445801	50.963268	X	Battleground	71		Door / Passage / Other Point of Interest
+1046	Flag Workshop	Isle of Conquest	628	774.119934	-804.106323	6.482168	X	Battleground	71		Door / Passage / Other Point of Interest
+1047	Flag Hangar	Isle of Conquest	628	806.674438	-997.357727	132.381577	X	Battleground	71		Door / Passage / Other Point of Interest
+1048	Flag Quarry	Isle of Conquest	628	250.786957	-1161.141357	16.949760	X	Battleground	71		Door / Passage / Other Point of Interest
