@@ -1,0 +1,24 @@
+# Release binaries and temporary generated files (prebuilt icon resource is tracked).
+*.exe
+*.test
+*.test.exe
+*.out
+*.log
+*.tmp
+*.new
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+.wrangler/
+
+# Private keys and certificates
+*.pem
+*.key
+*.p12
+*.pfx
