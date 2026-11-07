@@ -46,9 +46,9 @@ def str_entry(key, value):
 
 strings = {
     'FileDescription': 'Wotlk 3.3.5a companion app',
-    'FileVersion': '1.0',
+    'FileVersion': '1.01',
     'ProductName': 'Frosty Zugbonk',
-    'ProductVersion': '1.0',
+    'ProductVersion': '1.01',
     'CompanyName': 'www.zugbonk.com',
     'LegalCopyright': 'Copyright © 2026 Zugbonk',
     'InternalName': 'Frosty Zugbonk',
@@ -57,8 +57,8 @@ strings = {
 }
 fixed = struct.pack('<13I',
     0xFEEF04BD, 0x00010000,
-    0x00010000, 0x00000000,
-    0x00010000, 0x00000000,
+    0x00010000, 0x00010000,
+    0x00010000, 0x00010000,
     0x0000003F, 0,
     0x00040004, 1, 0, 0, 0,
 )

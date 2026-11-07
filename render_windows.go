@@ -165,6 +165,7 @@ func (w *uiWindow) paint() {
 		// Dedicated black tooltip, always readable regardless of theme or UI visibility.
 		w.txt("Left-click: Show or hide Zugbonk", 11, 6, floatTipWidth-20, 23, white, 3)
 		w.txt("Right-drag: Move the floating icon", 11, 31, floatTipWidth-20, 23, white, 0)
+		w.txt("v1.01", 11, 55, floatTipWidth-20, 20, white, 0)
 	}
 	ox, oy, vw, vh := w.contentViewport(aw, ah)
 	if w.view == "main" {

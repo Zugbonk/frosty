@@ -1,6 +1,6 @@
 # Frosty Zugbonk
 
-**Version 1.0** — Your Everyday WoW Companion
+**Version 1.01** — Your Everyday WoW Companion
 
 Native, portable 32-bit Windows companion application for **World of Warcraft 3.3.5a**.
 
@@ -35,19 +35,41 @@ The resulting portable EXE embeds all graphics and the default teleport catalog.
 python tools\build_resources.py
 ```
 
-The generated COFF resource contains the original application icon and English (United States) VERSIONINFO. Current product metadata uses the creator-approved project name, website, copyright, and version 1.0.
+The generated COFF resource contains the original application icon and English (United States) VERSIONINFO. The Windows FileVersion and ProductVersion are both 1.01 (numeric version tuple 1.0.1.0). The original application identity, icon, company, copyright, filename, comments, and language metadata are retained unchanged.
 
 ## Source layout
 
 - `main_windows.go`, `render_windows.go`, `winapi_windows.go` — native Win32 main interface and rendering
 - `*_windows.go` — runtime/UI modules: movement, tracking, teleport, multiple game clients, custom menus, information windows and online content
-- `internal/` — standalone, unit-tested Go modules for catalog operations, UI policies, movement, tracking, teleport, QR generation, remote data and settings migration
+- `internal/` — standalone, unit-tested Go modules for catalog operations, UI policies, movement, tracking, teleport, Add Location label reading, QR generation, remote data and settings migration
 - `assets/` — current embedded sprites, backgrounds, theme previews, sidebar fallback and icon only
 - `data/teleports.tsv` — final embedded default catalog (**1,042 locations; 12-column TSV**)
 - `tools/build_resources.py` — Windows icon and VERSIONINFO resource generator
 - `BUILD_WINDOWS.bat` — build script, including Go unit tests
 
 There are no earlier compiled release binaries or obsolete development changelogs inside this source folder.
+
+## Version 1.01 changes
+
+Version 1.01 restores the Beta 3.01 Add Location autofill behavior in the Go
+release. The main application title bar and floating-icon hover tooltip end with
+`v1.01`, and the About panel shows Application Version 1.01. When a single WoW 3.3.5a build 12340 client is selected and its
+character is fully loaded, Add Location reads the current MapID and XYZ from
+the existing validated character snapshot. It also reads the client-owned
+minimap, subzone, and parent-zone labels using the same three known static
+pointers as Beta 3.01. The minimap label is used as Location first (for
+example, `Lion's Pride Inn`); if unavailable, the subzone and then parent zone
+are used. The parent zone (for example, `Elwynn Forest`) fills Zone.
+
+Only blank Location, Zone, MapID, X, Y and Z fields are populated. Category,
+faction, subcategory, minimum level and comment are not touched. All reads are
+bounded and read-only; there is no process-memory write, injection, scan, hook,
+installer, or change to the embedded catalog/data-file handling. If the
+character is loading or the values cannot be read, the form remains available
+for manual entry. Add Location is blocked when Control All is active for two
+or more live WoW clients; switch to a single-client control scope first.
+
+See [CHANGELOG.md](CHANGELOG.md) for the release notes.
 
 ## User data and settings
 
@@ -72,7 +94,7 @@ Optional public information (banner, About, HowTo, Donations, Contacts) is retri
 go test ./internal/...
 ```
 
-The unit tests validate Go-side functionality, not actual in-game behavior. Real Windows/gameplay acceptance and any third-party assets' redistribution rights should be verified before public distribution.
+The unit tests validate Go-side functionality, including Add Location label-priority/fallback and invalid-pointer handling, not actual in-game behavior. Real Windows/gameplay acceptance and any third-party assets' redistribution rights should be verified before public distribution.
 
 ## License and attribution
 

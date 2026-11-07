@@ -491,7 +491,7 @@ func main() {
 	}
 }
 func createWindow(view string, clientW, clientH int, owner uintptr) *uiWindow {
-	title := "Frosty Zugbonk - Your Everyday WoW Companion"
+	title := "Frosty Zugbonk - Your Everyday WoW Companion v1.01"
 	style := uintptr(WS_OVERLAPPEDWINDOW)
 	if view != "main" {
 		style = WS_CAPTION | WS_SYSMENU
@@ -589,6 +589,11 @@ func isInfoView(view string) bool {
 }
 
 func popup(view string) {
+	if view == "add" && addLocationMultiClientBlocked() {
+		app.status = "Add Location is disabled while Control All is active for multiple WoW clients. Switch to a single client to add a location."
+		mainRedraw()
+		return
+	}
 	for _, w := range app.windows {
 		if w.view == view && w.hwnd != app.main {
 			pShowWindow.Call(w.hwnd, SW_SHOW)
@@ -645,6 +650,7 @@ func popup(view string) {
 	}
 	if view == "add" {
 		w.form = map[string]string{"Category": "World", "Faction": "X", "Subcategory": ""}
+		fillAddLocationFromActiveCharacter(w.form)
 	}
 	pShowWindow.Call(w.hwnd, SW_SHOW)
 	pSetForegroundWindow.Call(w.hwnd)
@@ -1378,7 +1384,7 @@ func createFloatingIcon() {
 // WM_MOUSELEAVE hides it; this works while the main UI is visible or hidden.
 // It is never part of the application's dismissible dialogue flow.
 const floatTipWidth = 268
-const floatTipHeight = 60
+const floatTipHeight = 82
 
 func createFloatingTooltip(iconHWND uintptr) {
 	if iconHWND == 0 || app.floatingTooltip != 0 {

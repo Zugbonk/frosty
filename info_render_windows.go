@@ -18,7 +18,7 @@ func remoteAboutLines() []string {
 		}
 		return a
 	}
-	return []string{"Frosty Zugbonk - Your Everyday WoW Companion", "Application Version: 1.0", "Made by Zugbonk | https://www.zugbonk.com", "", "Independent free and offline-first companion for WoW 3.3.5a.", "Movement and tracking support selected or all running game clients.", "", "No registration, activation, analytics, or internet connection is required.", "Cloud-managed content is optional and may be unavailable while offline.", "", "Unofficial project, not affiliated with Blizzard Entertainment.", "Copyright © 2026 Zugbonk"}
+	return []string{"Frosty Zugbonk - Your Everyday WoW Companion", "Application Version: 1.01", "Made by Zugbonk | https://www.zugbonk.com", "", "Independent free and offline-first companion for WoW 3.3.5a.", "Movement and tracking support selected or all running game clients.", "", "No registration, activation, analytics, or internet connection is required.", "Cloud-managed content is optional and may be unavailable while offline.", "", "Unofficial project, not affiliated with Blizzard Entertainment.", "Copyright © 2026 Zugbonk"}
 }
 func wrapLines(s string, max int) []string {
 	var lines []string
